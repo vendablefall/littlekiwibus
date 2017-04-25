@@ -1,0 +1,153 @@
+---
+layout: default
+title: About
+section_id: about
+bars:
+  - title: Hippies
+    percent: 65
+  - title: Nomads
+    percent: 80
+  - title: Fabricators
+    percent: 10
+  - title: HouseBus Enthusiasts
+    percent: 100
+members:
+  - image: alexwithstick-208-208.png
+    name: Alex Simpson
+    position: Car guy &amp; Hobby welder
+    desc:
+      Unde labore corporis nam dignissimos tenetur vero enim. Eligendi est quam et in recusandae ratione facilis vel iste est rerum Unde labore corporis nam dignissimos tenetur vero enim. Eligendi est quam et in recusandae ratione facilis vel iste est rerum.
+    socials:
+      - name: twitter
+        link: #
+        color: yellow
+      - name: facebook
+        link: #
+        color: yellow
+      - name: mail
+        link: #
+        color: yellow
+  - image: bridgetarmsup208-208.png
+    name: Bridget Porter
+    position: Urban Hippie &amp; Aspiring Woodworker
+    desc:
+      Unde labore corporis nam dignissimos tenetur vero enim. Eligendi est quam et in recusandae ratione facilis vel iste est rerum Unde labore corporis nam dignissimos tenetur vero enim. Eligendi est quam et in recusandae ratione facilis vel iste est rerum.
+    socials:
+      - name: twitter
+        link: #
+        color: yellow
+      - name: facebook
+        link: #
+        color: yellow
+      - name: mail
+        link: #
+        color: yellow
+---
+
+<div class='full'>
+  <div class='row'>
+    <div class='special-title centered-text'>
+      <i class='icon-users'></i>
+      <h2>Who we are</h2>
+      <p></p>
+      <p class='shortline'></p>
+    </div>
+    <div class='spacing'></div>
+    <div class='spacing'></div>
+  </div>
+  <div class='row'>
+    <div class='medium-6 large-6 columns'>
+      <p>
+        <span class='drop-letters'>We</span>have both reached that age when we're constantly being asked when we're going to settle down and buy a house. With the current state of the housing market, the answer is always the same: never. Neither of us have any desire to spend all our savings on a deposit for an average house in the suburbs, just to spend the rest of our lives paying it off. Also our gypsy souls wouldn't be overly pleased if we tied them down in one place. They like to roam.<br />
+<br />
+We recently spent a month travelling around New Zealand's beautiful South Island. We love New Zealand. The people are wonderful, the landscapes are breathtaking, and it's Alex's home country. So needless to say, we had an amazing time. But the best part of the trip was the hatching of the house bus idea. One day, as we were driving through the Catlins, Alex said to me, completely out of the blue, "We should live in a house bus." I couldn't quite understand how this hadn't really occurred to me before. I looked at him to make sure he was serious (he was), and I said "We definitely should." And since then, we've spoken about very little else.<br />
+<br />
+At this stage, all we can do is research, learn and plan. We are currently living in Brisbane. We plan to stay here for no more than 2 more years, to earn and learn as much as we possibly can, then move to New Zealand and get started. So there won't actually be a Little Kiwi Bus for some time, just a concept. In the meantime this will just be a catalogue of our progress. We have a lot to learn, but we're going to take it one day at a time until we're ready. I'm going to be doing all the woodwork in the bus, so my first task is to master woodworking, and Alex needs to master welding (he can definitely be in charge of raising the roof!). Alex is also using this serverless website as a chance to build his knowledge in AWS public cloud (whatever that means), so he can work remotely from our little green home on wheels.<br />
+<br />
+We are hoping to import an American school bus to New Zealand. The main reason for doing this, rather than just buying a NZ bus, is that it's a lot cheaper (even considering the shipping costs) than buying one in NZ of the same age and in the same condition. They are also wider (generally), and we love the classic dog-nosed look. There is already so much information readily available for us online from people who have already done it (so thank you to everyone who's already shared their journey and offered advice), but if anyone has anything at all that could help us, please do get in touch. The only thing that could potentially hold us back at this stage is the legalities of importing a left hand drive into New Zealand. We are hoping we will be able to get it in as a Special Interest Vehicle, but this is definitely something we need more information on, so if anyone has any experience importing a left hand drive to NZ, we'd appreciate any advice.<br />
+<br />
+Otherwise, stick around to follow our exciting journey!<br />
+
+
+</p>
+    </div>
+    <div class='medium-6 large-6 columns'>
+      <ul class='bars'>
+        {% for bar in page.bars %}
+          <li>
+            <h4>
+              {{bar.title}}
+              <strong>{{bar.percent}}%</strong>
+            </h4>
+            <p class='highlighted' data-percent='{{bar.percent}}'></p>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+
+<div class='members'>
+  <div class='full no-padding'>
+    <div class='row'>
+      {% for member in page.members %}
+        {% if forloop.first %}
+          {% assign active_class = "active" %}
+        {% else %}
+          {% assign active_class = "" %}
+        {% endif %}
+        <div class='medium-6 large-6 columns' >
+          <div class='member centered-text {{active_class}} '>
+            <img src='{{site.url}}/images/{{member.image}}'  class='green-border'>
+            <h3>{{member.name}}</h3>
+            <p class='position'>{{member.position}}</p>
+            <p>
+              {{member.desc}}
+            </p>
+            <div class='socials'>
+              {% for social in member.socials %}
+                <a href='{{social.link}}'>
+                  <i class='icon-{{social.name}} {{social.color}}'></i>
+                </a>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class='three spacing'></div>
+<!--
+    <div class='row'>
+      {% for member in page.members %}
+        {% if forloop.first %}
+          {% assign active_class = "active" %}
+        {% else %}
+          {% assign active_class = "" %}
+        {% endif %}
+        <div class='medium-3 large-3 columns'>
+          <div class='member centered-text {{active_class}}'>
+            <img src='{{site.url}}/images/{{member.image}}'>
+            <h3>{{member.name}}</h3>
+            <p class='position'>{{member.position}}</p>
+            <p>
+              {{member.desc}}
+            </p>
+            <div class='socials'>
+              {% for social in member.socials %}
+                <a href='{{social.link}}'>
+                  <i class='icon-{{social.name}} {{social.color}}'></i>
+                </a>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+-->
+    <div class='three spacing'></div>
+    <div class='three spacing'></div>
+  </div>
+</div>

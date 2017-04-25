@@ -1,0 +1,42 @@
+- image: bus-1600-530.jpg
+  desc_location: left
+  desc:
+    <h2>Take one part bus...</h2>
+    <p></p>
+    <div class='two spacing'></div>
+#    <a class='button boxed'>View Features</a>
+- image: tinyhouse-1600-530.jpg
+  desc_location: left
+  desc:
+    <h2>one part tiny house...</h2>
+    <p></p>
+    <div class='two spacing'></div>
+#    <a class='button boxed'>Learn More</a>
+- image: nz2-1600-530.jpg
+  desc_location: center
+  desc:
+    <h2>combine in beautiful New Zealand</h2>
+    <p></p>
+    <div class='two spacing'></div>
+#    <a class='button boxed'>Learn More</a>
+- image: dream-interior-1600-530.jpg
+  desc_location: right
+  desc:
+    <h2>to make one couples dream home!</h2>
+    <p></p>
+    <div class='two spacing'></div>
+- image: journey-1600-530.jpg
+  desc_location: right
+  desc:
+    <h2>So come along and follow our journey!</h2>
+    <p></p>
+    <div class='two spacing'></div>
+#    <a class='button boxed'>Learn More</a>
+#    <a class='button boxed'>Purchase Now</a>
+#- image: dream-interior-1600-530.jpg
+#  desc_location: center
+#  desc:
+#    <h2>Untill we have the perfect home</h2>
+#    <p>On wheels, so we can travel NZ while living out our dream!</p>
+#    <div class='two spacing'></div>
+#    <a class='button boxed'>Purchase Now</a>
