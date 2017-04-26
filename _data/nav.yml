@@ -23,15 +23,12 @@
 - name: Blog
   path: blog/
   section_id: blog
-- name: "Contact Us"
-  jump: '#contactus'
-  section_id: "Contact Us"
 - name: "Social Media"
   section_id: "Social Media"
   children:
     - name: Instagram
       path: https://instagram.com/littlekiwibus/
-    - name: Pintrest
+    - name: Pinterest
       path: https://au.pinterest.com/alexs0765/
 
 #- name: Instagram
@@ -42,4 +39,7 @@
 #  path:
 #  section_id: pintrest
 #  external: https://au.pinterest.com/alexs0765/
-
+- name: "Contact Us"
+  path: index.html
+  jump: '#contactus'
+  section_id: "Contact Us"

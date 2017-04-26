@@ -50,7 +50,7 @@
                   </li>
 				{% elsif item.jump %}
 				<li class="{{active_class}}">
-                    <a href="{{ item.jump }}">{{ item.name }}</a> 
+                    <a href="{{site.url}}/{{ item.path }}{{ item.jump }}">{{ item.name }}</a> 
                   </li>
 
                 {% else %}
