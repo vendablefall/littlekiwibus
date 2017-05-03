@@ -19,17 +19,13 @@
         <nav class='top-bar' data-options='sticky_on: large' data-topbar=''>
           <ul class='title-area'>
             <li class='name'>
-              <h1>
-                <img src='{{site.url}}/images/herecomesthebus-56x47.png'>
-                <a href='/'>{{ site.name }}</a>
-              </h1>
             </li>
             <li class='toggle-topbar menu-icon'>
               <a href='#'></a>
             </li>
           </ul>
           <section class='top-bar-section'>
-            <ul class="right">
+            <ul class="center1">
               {% for item in site.data.nav %}
                 {% if item.section_id == page.section_id %}
                   {% assign active_class = "active" %}
