@@ -200,7 +200,7 @@ display: none;
   margin-bottom: 0;
 }
 .special-title p {
-  font-family: "droid serif", georgia;
+  font-family: 'Nunito', sans-serif;;
   font-size: 1.125rem;
   font-style: italic;
   color: #666666;
@@ -237,7 +237,7 @@ display: none;
 }
 
 .icon-text-boxed i {
-  font-size: 88px;
+  font-size: 88px
   color: #e6e6e6;
   border: 1px solid #e6e6e6;
   padding: 35px 0;
@@ -288,7 +288,7 @@ display: none;
 /*call-to-action */
 .call-to-action p {
   font-size: 1.375rem;
-  font-family: "droid serif", georgia;
+  font-family: 'Nunito', sans-serif;
   font-style: italic;
 }
 
@@ -300,7 +300,7 @@ display: none;
 }
 .milestone strong {
   font-size: 72px;
-  font-family: "PT sans";
+  font-family: 'Nunito', sans-serif;
   display: block;
 }
 
@@ -315,7 +315,7 @@ display: none;
   list-style: none;
 }
 .bars h4 {
-  font-family: "droid serif", georgia;
+  font-family: 'Nunito', sans-serif;;
   font-style: italic;
   font-weight: normal;
   text-transform: capitalize;
@@ -340,7 +340,7 @@ display: none;
   margin-bottom: 0;
 }
 .member p.position {
-  font-family: "droid serif", georgia;
+  font-family: 'Nunito', sans-serif;;
   font-style: italic;
   font-size: 14px;
   color: #666666;
@@ -399,7 +399,7 @@ display: none;
 p.quote {
   border: 1px solid rgba(255, 255, 255, 0.4);
   padding: 20px 50px;
-  font-family: "droid serif", georgia;
+  font-family: 'Nunito', sans-serif;;
   font-style: italic;
   font-size: 18px;
   margin-bottom: 30px;
@@ -446,7 +446,7 @@ textarea {
 }
 #comments-form label {
   font-size: 1rem;
-  font-family: "PT sans";
+  font-family: 'Nunito', sans-serif;;
   margin-bottom: 5px;
 }
 
@@ -558,7 +558,7 @@ ul.gallery li a h3 {
 }
 ul.gallery li a p {
   color: #dddddd;
-  font-family: "droid serif", georgia;
+  font-family: 'Nunito', sans-serif;;
   font-size: 0.875rem;
   font-style: italic;
 }
