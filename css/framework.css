@@ -157,7 +157,7 @@ select {
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 0;
+  margin--bar: 0;
   margin-bottom: 0;
   max-width: 70rem;
   *zoom: 1;
@@ -4992,7 +4992,7 @@ meta.foundation-mq-topbar {
 }
 
 .top-bar-section {
-  left: 0;
+  /*left: 0;*/
   position: relative;
   width: auto;
   transition: left 300ms ease-out;
@@ -5257,7 +5257,9 @@ meta.foundation-mq-topbar {
 
   .top-bar-section {
     transition: none 0 0;
-    left: 0 !important;
+    width: 39%;
+    margin: 0 auto;
+
   }
   .top-bar-section ul {
     width: auto;
