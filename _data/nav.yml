@@ -1,13 +1,16 @@
 - name: Blog
   path: blog/
   section_id: blog
-- name: About
+- name: Home
   path: index.html
+  section_id: home
+- name: About
+  path: about.html
   section_id: about
-- name: "Contact Us"
-  path: contact_us.html
-  jump: '#contactus'
-  section_id: "Contact Us"
+#- name: "Contact Us"
+#  path: contact_us.html
+#  jump: '#contactus'
+#  section_id: "Contact Us"
 - name: "Social Media"
   section_id: "Social Media"
   children:
