@@ -10,10 +10,12 @@ background1: "#F4F7F0"
 secondcolor: "#9ccc66"
 navhovercolor: #000000
 font: 'font-family: "Nunito", sans-serif;'
-footercolor: "#646569"
+footercolor: "#F4F7F0"
 buttoncolor: "#646569"
 buttontextcolor: "white"
 buttonhovercolor: "#9ccc66"
 worksoverlaycolor: "#f6f6f6"
 linktextcolor: "#646569"
 linktexthovercolor: "#9ccc66"
+stephs-bg: "#F4F7F0"
+scotts-grey: "#646569"
