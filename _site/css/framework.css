@@ -5248,7 +5248,7 @@ meta.foundation-mq-topbar {
   }
   /* NAV BAR WIDTH */
   .contain-to-grid .top-bar {
-    max-width: 65rem;
+    max-width: 40rem;
     margin: 0 auto;
     margin-bottom: 0;
   }
