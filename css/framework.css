@@ -1961,7 +1961,7 @@ button, .button {
   font-size: 1rem;
   background-color: {{ site.background1 }};
   border-color: #232323;
-  color: #232323;
+  color: {{site.buttontextcolor}};
   transition: background-color 300ms ease-out;
 }
 button:hover, button:focus, .button:hover, .button:focus {
@@ -5218,7 +5218,7 @@ meta.foundation-mq-topbar {
 
 @media only screen and (min-width: 40.063em) {
   .top-bar {
-    background: {{ site.background1 }};
+    background: {{ site.navhovercolor }};
     *zoom: 1;
     overflow: visible;
   }
@@ -5355,7 +5355,7 @@ meta.foundation-mq-topbar {
     background: {{ site.background1 }};
   }
   .top-bar-section .dropdown li:not(.has-form):hover > a:not(.button) {
-    color: #232323;
+    color: {{ site.linktexthovercolor }};
     background: {{ site.background1 }};
   }
   .top-bar-section .dropdown li label {
@@ -5624,12 +5624,12 @@ td {
 
 /* Default Link Styles */
 a {
-  color: {{ site.secondcolor }};
+  color: {{ site.linktextcolor }};
   text-decoration: none;
   line-height: inherit;
 }
 a:hover, a:focus {
-  color: #fbb207;
+  color: {{ site.linktexthovercolor }};
 }
 a img {
   border: none;
