@@ -11,9 +11,10 @@ secondcolor: "#9ccc66"
 navhovercolor: #000000
 font: 'font-family: "Nunito", sans-serif;'
 footercolor: "#F4F7F0"
-buttoncolor: "#646569"
-buttontextcolor: "white"
+buttoncolor: "#F4F7F0"
+buttontextcolor: "#646569"
 buttonhovercolor: "#9ccc66"
+buttonbordercolor: "#646569"
 worksoverlaycolor: "#f6f6f6"
 linktextcolor: "#646569"
 linktexthovercolor: "#9ccc66"

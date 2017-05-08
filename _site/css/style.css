@@ -95,7 +95,10 @@ display: none;
   letter-spacing: 3px;
   font-size: 14px;
   padding: 13px 30px 10px;
-  background: #646569;
+  background: #F4F7F0;
+  border-style: solid;
+  border-color: #646569;
+  border-width: 1px;
 }
 
 .button:hover {
@@ -382,7 +385,7 @@ display: none;
 }
 .socials i.yellow {
   color: white;
-  background: #646569;
+  background: #F4F7F0;
 }
 .socials i.yellow:hover {
   color: #9ccc66;

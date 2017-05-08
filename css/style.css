@@ -98,6 +98,9 @@ display: none;
   font-size: 14px;
   padding: 13px 30px 10px;
   background: {{ site.buttoncolor }};
+  border-style: solid;
+  border-color: {{ site.buttonbordercolor }};
+  border-width: 1px;
 }
 
 .button:hover {
