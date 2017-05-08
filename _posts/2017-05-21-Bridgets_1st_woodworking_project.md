@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Bridgets 1st woodworking project"
-date:   2016-05-21 20:37:53 +0800
+date:   2018-05-21 20:37:53 +0800
 author: "Alex Simpson"
----
+--- 
 
 Hello and welcome to our first blog post! Hopefully one day we will be sitting in our tiny house bus reading this post remembering what it felt like to start on what we plan on being one of the biggest turning points of our lives! Moving back to New Zealand (my home country) to build our very own tiny house on wheels, our LitteKiwiBus.
 
