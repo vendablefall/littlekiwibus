@@ -1,5 +1,8 @@
 ---
 ---
+.centerButtons {
+    text-align: center;
+}
 meta.foundation-version {
   font-family: "/5.2.2/";
 }
@@ -81,7 +84,7 @@ body {
   font-style: normal;
   line-height: 1;
   position: relative;
-  cursor: default;
+  cursor: default;center1
 }
 
 a:hover {
