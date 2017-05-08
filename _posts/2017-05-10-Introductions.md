@@ -5,7 +5,7 @@ date:   2017-05-10 20:37:53 +0800 #re-adjust date as needed (post will not be sh
 author: Bridget Porter
 ---
 
-![computers]({{site.url}}/images/blog-people.jpg) # photos go here
+![Bridget and Alex]({{site.url}}/images/)
 
 Hello and welcome to our first blog post! Thank you for stopping by and showing an interest in our adventures and misadventures. I wonder if you're as excited to be here as we are... probably not, I guess that would be weird.
 
@@ -13,7 +13,9 @@ One day in the not too distant future, we hope to be sitting in our cosy little 
 
 But that remains a dream at this stage. Let us rewind a little.
 
-Firstly, allow us to introduce ourselves and our idea (bold, sub heading)
+<!--more--> 
+
+**Firstly, allow us to introduce ourselves and our idea.** 
 
 We are Bridget and Alex, a young couple, half of us from Wales, and the other half New Zealand. Although we still consider ourselves to be spring chickens, we have both reached that age when we're constantly being asked when we're going to settle down and buy a house. With the current state of the housing market, the answer is always the same; never. Neither of us have any desire to spend all our savings on a deposit for an average house in the suburbs, just to spend the rest of our lives paying it off. Also our gypsy souls wouldn't be overly pleased if we tied them down in one place. They like to roam.
 
