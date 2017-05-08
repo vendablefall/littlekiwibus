@@ -387,7 +387,7 @@ display: none;
 }
 .socials i.yellow {
   color: white;
-  background: {{ site.buttoncolor }};
+  background: {{ site.linktextcolor }};
 }
 .socials i.yellow:hover {
   color: {{ site.buttonhovercolor }};
