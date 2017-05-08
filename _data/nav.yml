@@ -1,45 +1,21 @@
-- name: Home
-  path: index.html
-  section_id: home
-#  children:
-#    - name: Home default
-#      path: index.html
-#    - name: Home alternative
-#      path: index-alternative.html
-#- name: Services
-#  path: services.html
-#  section_id: services
-- name: About
-  path: about.html
-  section_id: about
-#- name: Portfolio
-#  path: portfolio-item.html
-#  section_id: portfolio
-#  children:
-#    - name: Portfolio
-#      path: portfolio.html
-#    - name: Portfolio single
-#      path: portfolio-item.html
 - name: Blog
   path: blog/
   section_id: blog
-- name: "Social Media"
-  section_id: "Social Media"
-  children:
-    - name: Instagram
-      path: https://instagram.com/littlekiwibus/
-    - name: Pinterest
-      path: https://au.pinterest.com/alexs0765/
-
-#- name: Instagram
-#  path: 
-#  section_id: Instagram
-#  external: https://instagram.com/littlekiwibus/
-#- name: Pintrest
-#  path:
-#  section_id: pintrest
-#  external: https://au.pinterest.com/alexs0765/
-- name: "Contact Us"
+- name: Home
   path: index.html
-  jump: '#contactus'
-  section_id: "Contact Us"
+  section_id: home
+- name: About
+  path: about.html
+  section_id: about
+#- name: "Contact Us"
+#  path: contact_us.html
+#  jump: '#contactus'
+#  section_id: "Contact Us"
+#- name: "Social Media"
+#  section_id: "Social Media"
+#  children:
+#   - name: Instagram
+#      path: https://instagram.com/littlekiwibus/
+#    - name: Pinterest
+#      path: https://au.pinterest.com/alexs0765/
+
