@@ -5,7 +5,7 @@ date:   2017-05-10 20:37:53 +0800 #re-adjust date as needed (post will not be sh
 author: Bridget Porter
 ---
 
-![Bridget and Alex]({{site.url}}/images/)
+![Some Stick Letters we made in India]({{site.url}}/images/AandB_stick.JPG)
 
 Hello and welcome to our first blog post! Thank you for stopping by and showing an interest in our adventures and misadventures. I wonder if you're as excited to be here as we are... probably not, I guess that would be weird.
 
