@@ -1,5 +1,19 @@
 ---
 ---
+.imageHolder { 
+  position: relative; 
+
+}
+
+.imageHolder .caption { 
+  position: relative; 
+  bottom: 0px; 
+  left: 0px; 
+  color: {{ site.captiontextcolor }}; 
+  font-size: 80%;
+  font-style: italic;  
+}
+
 .post-img{
 max-width: 50%
 }
