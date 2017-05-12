@@ -1,15 +1,37 @@
 ---
 layout: post
 title:  "Bridgets 1st woodworking project"
-date:   2018-05-21 20:37:53 +0800
+date:   2018-07-21 20:37:53 +0800
 author: "Alex Simpson"
 --- 
 
-Hello and welcome to our first blog post! Hopefully one day we will be sitting in our tiny house bus reading this post remembering what it felt like to start on what we plan on being one of the biggest turning points of our lives! Moving back to New Zealand (my home country) to build our very own tiny house on wheels, our LitteKiwiBus.
+As you should know by now, Bridget is looking at becomming a skilled wood worker (if you dont know, check out our [intro]({{site.url}}/2017/05/09/Introductions.html)). For her first project she set her sights on an old computer desk that I no longer needed. Rather than throw perfectly good wood away we thought we could use it as a perfect starter project. 
+<div class="imageHolder1"> 
+	<img src="{{site.url}}/images/Bridgets 1st woodworking project/alex_and_original.jpg" style="max-width: 60%"/> 
+		<div class="caption1">
+		<br>Me (Alex) just before we cut the table in half.
+		</div> 
+</div> 
 
-The subject of this post is to show off what Bridget has been up to over the last few weekends. Building, and lots of it. Bridget started by dismantling an old computer desk of mine that was solid wood (hurray for free wood). She learnt how to use a circular saw.
+<!--more--> 
 
-[Bridget on the Circular saw]({{site.url}}/images/image.jpg)
+Above you can see me standing in front of the desk we used, with appropriate safety gear of course, safety first! This was to be her first attempt at using any kind of power tools, below is a photo of bridget practising with the circular saw:
 
-She decided she would break down the table and make some planter boxs that she had been wanting for ages but didnt want to pay for. 
+<div class="imageHolder1"> 
+	<img src="{{site.url}}/images/Bridgets 1st woodworking project/circular_saw.jpg" style="max-width: 60%"/> 
+		<div class="caption1">
+		<br>Bridget doing her first cut with a circular saw.
+		</div> 
+</div> 
+<br>
+She decided she would break down the table into its base parts and make some planter boxs that she had been desperatly wanting, but was unwilling to pay for as in her opinion "everything is so overpriced these days".
+
+<div class="imageHolder1"> 
+	<img src="{{site.url}}/images/Bridgets 1st woodworking project/dismantling.jpg" style="max-width: 60%"/> 
+		<div class="caption1">
+		<br>Bridget dismantling the desk, after cutting it in half.
+		</div> 
+</div>
+<br>
+blah blah blahgb
 
