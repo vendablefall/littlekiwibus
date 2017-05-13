@@ -4,12 +4,8 @@ title:  "<put title in here>"
 date:   2014-05-05 20:37:53 +0800 #re-adjust date as needed (post will not be shown untill that date)
 author: Andy Budd # name here
 ---
-<div class="imageHolder1"> 
-	<img src="{{site.url}}/images/AandB_stick.JPG" style="max-width: 60%"/> 
-		<div class="caption1">
-			<br>Twig art in India
-		</div> 
-</div> 
+<img src="{{site.url}}/images/AandB_stick.JPG"/> 
+<a class="image-captions">Twig art in India</a>
 
 <insert text here>
 

@@ -6,12 +6,9 @@ author: "Alex Simpson"
 --- 
 
 As you should know by now, Bridget is looking at becomming a skilled wood worker (if you dont know, check out our [intro]({{site.url}}/2017/05/09/Introductions.html)). For her first project she set her sights on an old computer desk that I no longer needed. Rather than throw perfectly good wood away we thought we could use it as a perfect starter project. 
-<div class="imageHolder1"> 
-	<img src="{{site.url}}/images/Bridgets 1st woodworking project/alex_and_original.jpg" /> 
-		<div class="caption1">
+
+<img class="imageHolder1"  src="{{site.url}}/images/Bridgets 1st woodworking project/alex_and_original.jpg" /> 
 		<br>Me (Alex) just before we cut the table in half.
-		</div> 
-</div> 
 
 <!--more--> 
 

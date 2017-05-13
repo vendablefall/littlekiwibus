@@ -1,13 +1,6 @@
 ---
 ---
-.imageHolder1 { 
-  position: relative; 
-}
-
-.imageHolder1 .caption1 { 
-  position: relative; 
-  bottom: 0px; 
-  left: 0px; 
+.image-captions {  
   font-size: 80%;
   font-style: italic; 
   color: {{ site.captiontextcolor }};
