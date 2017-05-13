@@ -5,22 +5,14 @@ date:   2018-07-21 20:37:53 +0800
 author: "Alex Simpson"
 --- 
 
-<<<<<<< Updated upstream
-As you should know by now, Bridget is looking at becomming a skilled wood worker (if you dont know, check out our [intro]({{site.url}}/2017/05/09/Introductions.html)). For her first project she set her sights on an old computer desk that I no longer needed. Rather than throw perfectly good wood away we thought we could use it as a perfect starter project. 
-
-<img class="imageHolder1"  src="{{site.url}}/images/Bridgets 1st woodworking project/alex_and_original.jpg" /> 
-		<br>Me (Alex) just before we cut the table in half.
-=======
 As you probably know by now (if you don't, check out our [intro]({{site.url}}/2017/05/09/Introductions.html)), Bridget will be in charge of all things wooden on our house bus. Which means she has however long it takes for us to find a bus to fully master woodworking.
 
 Growing up, her father was a very handy man, but also very old fashioned, so she mastered hand tools from a young age but was never really introduced to power tools. That's where Professor Alex steps in...
->>>>>>> Stashed changes
 
-<!--more--> 
 
 <img src="{{site.url}}/images/Bridgets 1st woodworking project/alex_and_original.jpg"/> 
 <a class="image-captions">Big thumbs up for free scrap wood!</a>
-
+<!--more--> 
 
 **First things first...**
 
