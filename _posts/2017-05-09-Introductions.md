@@ -5,7 +5,7 @@ date:   2017-05-09 20:37:53 +0800 #re-adjust date as needed (post will not be sh
 author: Bridget Porter
 ---
 <div class="imageHolder1"> 
-	<img src="{{site.url}}/images/AandB_stick.JPG" style="max-width: 60%"/> 
+	<img src="{{site.url}}/images/AandB_stick.JPG"/> 
 		<div class="caption1">
 		<br>Twig art in India
 		</div> 
@@ -24,7 +24,7 @@ But that remains a dream at this stage. Let us rewind a little.
 We are Bridget and Alex, a young couple, half of us from Wales, and the other half New Zealand. Although we still consider ourselves to be spring chickens, we have both reached that age when we're constantly being asked when we're going to settle down and buy a house. With the current state of the housing market, the answer is always the same; never. Neither of us have any desire to spend all our savings on a deposit for an average house in the suburbs, just to spend the rest of our lives paying it off. Also our gypsy souls wouldn't be overly pleased if we tied them down in one place. They like to roam.
 
 <div class="imageHolder1">
-<img src="{{site.url}}/images/us2.jpg" style="max-width: 60%"/>
+<img src="{{site.url}}/images/us2.jpg" />
 		<div class="caption1">
 			<br>Both of us on our recent trip to New Zealand.
 		</div> 
@@ -36,7 +36,7 @@ At this stage, all we can do is research, learn and plan. We are currently livin
 
 I'm going to be doing all the woodwork in the bus, so my first task is to master woodworking. And Alex needs to master welding (he can definitely be in charge of raising the roof!). Alex is also using this serverless website as a chance to build his knowledge in AWS public cloud (whatever that means), so he can work remotely from our little green home on wheels. And I'll find a way to earn a living along the way...
 <div class="imageHolder1"> 
-	<img src="{{site.url}}/images/bus.jpg" style="max-width: 60%"/> 
+	<img src="{{site.url}}/images/bus.jpg" /> 
 		<div class="caption1">
 		<br>We would love something like this!
 		</div> 
