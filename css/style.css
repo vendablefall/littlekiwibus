@@ -656,7 +656,7 @@ ul.info i:hover {
 /*blog */
 .post {
   margin: auto;
-  max-width:750px;
+  max-width:700px;
 }
 .post .info, .post .content {
   margin-left: 30px;
