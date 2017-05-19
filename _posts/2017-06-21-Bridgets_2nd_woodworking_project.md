@@ -22,7 +22,6 @@ So I've decided to take a leaf out of Alex's book. I've taken the woodworking re
 
 
 
-
 Today on the LittleKiwiBus were showing you what Bridget has been doing over the weekend, she has built a pallet chair. Not content with the planter boxs from [Last Week](link to last week) Bridget wanted a bigger challenge, not simply wooden rectangles build from and old table. Throughout the week she had payed someone to drop off 7 palletts and some beautiful hardwood. 
 
 [Pallett photo]({{site.url}}/images/image.jpg)
