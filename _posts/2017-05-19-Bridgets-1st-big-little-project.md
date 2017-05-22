@@ -5,14 +5,14 @@ date:   2017-05-19 20:37:53 +0800
 author: "Alex Simpson"
 --- 
 
+<img src="{{site.url}}/images/Bridgets 1st woodworking project/alex_and_original.jpg"/> 
+<a class="image-captions">Big thumbs up for free scrap wood!</a>
+<br>
+
 As you probably know by now (if you don't, check out our [intro]({{site.url}}/2017/05/09/Introductions.html)), Bridget will be in charge of all things wooden on our house bus. Which means she has however long it takes for us to find a bus to fully master woodworking.
 
 Growing up, her father was a very handy man, but also very old fashioned, so she mastered hand tools from a young age but was never really introduced to power tools. That's where Professor Alex steps in...
 
-
-<img src="{{site.url}}/images/Bridgets 1st woodworking project/alex_and_original.jpg"/> 
-<a class="image-captions">Big thumbs up for free scrap wood!</a>
-<br>
 <!--more--> 
 
 **First things first...**
