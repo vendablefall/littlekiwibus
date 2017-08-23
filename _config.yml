@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 paginate: 3
 paginate_path: "/blog/page:num/"
 highlighter: pygments
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 disqus: littlekiwibus
 background1: "#F4F7F0"
 secondcolor: "#9ccc66"
