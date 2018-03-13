@@ -9,6 +9,7 @@ I started learning to weld with a gasless mig wilder about a year ago. Mig weldi
 
 <img src="{{site.url}}/images/beginners-guide-to-stick-welding/squaring-up.JPG"/> 
 <a class="image-captions">Making sure it's square</a>
+
 <!--more-->
 
 The “covered platform” was to be my first real stick welding project. I am quite happy with how strong and square it turned out. The shelf that the BBQ sits on however... is not square. But it is strong. It was the last welding job of the project, at the end of my third day working on this thing. I was tired and I rushed it. I am okay with my “unsquare” shelf, as the focus for this exersize was to build something solid and practical. 
