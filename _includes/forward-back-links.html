@@ -1,0 +1,68 @@
+
+
+{% assign sortedDocs = site.posts | sort: %}
+{% for blog-post in sortedDocs %}
+    {% if blog-post.order == page.order %}
+
+        {% if forloop.last %}
+            <div class="rightsidenav">
+                <span>All Finished, Back to the index:</span>
+                <br>
+                <a href="{{ site.url }}">Index</a>
+            </div>
+        {% else %}
+            {% assign next = sortedDocs[forloop.index] %}
+            <div class="rightsidenav">
+                <span> Next blog-post:</span>
+                <br>
+                <a href="{{ next.url }}">{{ next.title }}</a>
+            </div>
+        {% endif %}
+
+        {% if forloop.first %}
+            <div class="leftsidenav">
+                <span> Back to Index:</span>
+                <br>
+                <a href="{{ site.url }}">Index</a>
+            </div>
+        {% else %}
+            <div class="leftsidenav">
+                <span> Previous blog-post:</span>
+                <br>
+                <a href="{{ prev.url }}">{{ prev.title }}</a>
+            </div>
+        {% endif %}
+
+    {% endif %}
+    {% assign prev = blog-post %}
+{% endfor %}  
+
+
+<!--
+=============================
+https://stackoverflow.com/questions/16145061/get-next-and-previous-elements-out-of-an-array-in-liquid
+
+{% for category in site.categories %}
+    {% assign catg_name = category.first %}
+    {% if catg_name == page.category %}
+        {% assign catg_posts = category.last %}
+    {% endif %}
+{% endfor %}
+{% for post in catg_posts %}
+    {% if post.title == page.title %}
+        {% unless forloop.last %}
+            {% assign next = catg_posts[forloop.index] %}
+            <li class="previous">
+            <a href="{{ site.baseurl }}{{ next.url }}">&larr;{{ next.title }}</a>
+            </li>
+        {% endunless %}
+        {% unless forloop.first %}
+            <li class="next">
+            <a href="{{ site.baseurl }}{{ prev.url }}">{{ prev.title }}&rarr;</a>
+            </li>
+        {% endunless %}
+    {% endif %}
+    {% assign prev = post %}
+{% endfor %}
+
+        -->

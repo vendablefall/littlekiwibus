@@ -43,7 +43,7 @@ I made it home in record time. I showed B what I'd found. B was a bit more cauti
 
 A few weeks later Bridget and I finally had a bus to call our own. The beautiful 1979 Ford R1114 that we fell for last year was officially ours. She (yet to be named) is 11.5 meters (37.8 ft) in length and 3 meters (10 ft) tall, and we already love every inch of her.
 
-Now that we've have found The One, we can quite clearly see the lessons to be learnt here. Don't rush big desicions like this. "Winging it" is exciting, but there are some things that just need to be done properly. No corner cutting.
+Now that we've have found The One, we can quite clearly see the lesson to be learnt from this process. Don't rush big desicions like buying a home. "Winging it" is exciting, but there are some things that just need to be done properly. I am quite proud of us for trusting our gut and deciding against purchasing the first bus. 
 
 Stay tuned for our next post where you will hear (read) how we got the bus from Wellington to Queenstown in one (almost) go.
 
