@@ -9,11 +9,11 @@ author: Alex Simpson
 
 Our bus purchasing journey was long, arduous and rather indecisive. We started off with a mutual dream. We fell deeply in love with this dream, until we inevitably we stumbled across technicalities, legalities and all the other bad -alities that forced us to re-dream our dream.
 
+<!--more--> 
+
 We originally had our hearts firmly set on a dog-nosed American school bus, which we were planning on importing into New Zealand (NZ) from the United States. This may sound a bit excessive, but there are laws in certain states of America stating that every school bus must end its career after a short 10 years in service. Which results in an abundance of used school buses, in almost new condition, being sold for what we would consider a steal. Also you just can't beat that beautiful, yellow dog-nose. Anyone disagree?
 
 So that was the dream. Then we discovered the NZ vehicle legislation prohibits left hand drive (LHD) heavy vehicles (anything over 4.5 tonne is classed as a heavy vehicle in NZ), which was an obstacle simply too big for us to overcome. We could, of course, convert it from a LHD to a RHD, but that's a lot easier said than done. It would no longer be the cheaper option, and unfortunately it would involve far more structural engineering than we were prepared to commit to.
-
-<!--more--> 
 
 <img src="{{site.url}}/images/finding-the-one/skoolie.jpg"/> 
 <a class="image-captions">An example of the type of skoolioe we were after</a>
