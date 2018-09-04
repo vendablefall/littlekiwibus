@@ -2,7 +2,7 @@
 layout: default
 title: Home
 section_id: home
-works:
+works1:
   - image: dismantle-400-260.png
     title: Bridget deconstructing
 #    category: Design &amp; Development
@@ -15,6 +15,21 @@ works:
   - image: planterbox-400-260.png
     title: Up-cycled planterbox
 #    category: Design &amp; Development
+
+works2:
+  - image: grandstand-400-260.png
+    title: Up-cycled granstand
+#    category: Design &amp; Development
+  - image: sawdustfeet-400-260.png
+    title: Sawdust!
+#    category: Design &amp; Development
+  - image: ourbus-400-260.png
+    title: Our Bus!
+#    category: Design &amp; Development
+  - image: professorgonzalez-400-250.png
+    title: Professor Gonzalez!
+#    category: Design &amp; Development
+
 ---
     <div class='special-title centered-text' style="padding: 30px">
     <img src='{{site.url}}/images/LittleKiwiBus_Logo_4.png' style='max-width:100%;'></img>
@@ -23,8 +38,10 @@ works:
   
 
 
+
+<div class='two spacing'></div>
 <ul class='gallery small-block-grid-2 medium-block-grid-3 large-block-grid-4'>
-  {% for work in page.works %}
+  {% for work in page.works2 %}
     <li>
       <a>
         <img src='{{site.url}}/images/{{ work.image }}'>
@@ -38,10 +55,9 @@ works:
     </li>
   {% endfor %}
 </ul>
-<div class='two spacing'></div>
 <div class=''>
     <div style="padding:30px;text-align:center;font-size:20px">
-Follow one Welsh girl and one Kiwi lad on their journey towards housebus ownership.
+Follow one Welsh girl and one Kiwi boy on their journey towards housebus ownership.
 </div>
 </div>
 <br>
@@ -50,3 +66,21 @@ Follow one Welsh girl and one Kiwi lad on their journey towards housebus ownersh
 <a class='button' href='{{site.url}}/blog' style="margin:auto;display:block;width:200px">Blog</a>
 <br>
 <a class='button' href='https://instagram.com/littlekiwibus/' style="margin:auto;display:block;width:200px">Instagram</a>
+
+<div class='three spacing'></div>
+
+<ul class='gallery small-block-grid-2 medium-block-grid-3 large-block-grid-4'>
+  {% for work in page.works1 %}
+    <li>
+      <a>
+        <img src='{{site.url}}/images/{{ work.image }}'>
+        <div class='overlay'>
+          <div class='thumb-info'>
+            <h3>{{ work.title }}</h3>
+            <p>{{ work.category }}</p>
+          </div>
+        </div>
+      </a>
+    </li>
+  {% endfor %}
+</ul>

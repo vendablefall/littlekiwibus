@@ -17,7 +17,7 @@ Growing up, her father was a very handy man, but also very old-fashioned, so she
 
 **First things first...**
 
-She hopped on Gumtree and bought herself a whole bunch of second-hand power tools. She managed to bag herself a good quality circular saw, jig saw, belt sander and router, a couple of saw horses and a spirit level, all for $120 (AUD)... Bargain! Then, being the penny-pincher that she is, and also having a very strong loathing for wasting any kind of material, she refused to buy wood. So she rummaged around the house for any scrap wood or unwanted furniture she could use and come across an old computer desk of mine sitting in the garage, abandoned and purposeless. A perfect starter project!
+She hopped on Gumtree and bought herself a whole bunch of second-hand power tools. She managed to bag herself a good quality circular saw, jig saw, belt sander and router, a couple of saw horses and a spirit level, all for $120 (AUD)... Bargain! Then, being the penny-pincher that she is, and also having a very strong loathing for wasting any kind of material, she refused to buy wood. So she rummaged around the house for any scrap wood or unwanted furniture she could use, and came across an old computer desk of mine sitting in the garage, abandoned and purposeless. A perfect starter project!
 
 I demonstrated the ABCs of each tool, as well as the necessary safety precautions to take before using any power tool, and off she went. She was a little nervous at first, but her confidence grew with every cut. Soon enough she was whistling while she worked; a surefire sign that she was sufficiently comfortable and didn't need me constantly breathing down her neck.
 
@@ -36,7 +36,7 @@ Bridget has been desperately needing new planter boxes for her vegetables for a 
 
 **The making of the planter box...**
 
-So she got to work dismantling the desk into its base parts. Once she had broken it down she decided she liked the inlay of the inside of the drawers and chose to use them as the sides of her box. For the bottom, she sandwiched two pieces of MDF (from the back of the desk) together with wood glue to give it strength and rigidity. She used dowels to hold it all together, along with more wood glue and nails, to make it extra secure.
+So she got to work dismantling the desk into its base parts. Once it was broken down into parts she liked the inlay of the inside of the drawers, and chose to use them as the sides of her box. For the bottom, she sandwiched two pieces of MDF (from the back of the desk) together with wood glue to give it strength and rigidity. She used dowels to hold it all together, along with more wood glue and nails, to make it extra secure.
 
 <img src="{{site.url}}/images/Bridgets 1st woodworking project/mid-construction.jpg"/> 
 <a class="image-captions">Forming the basic shape</a>
