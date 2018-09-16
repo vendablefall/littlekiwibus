@@ -58,6 +58,6 @@ She nearly coated it in some diluted PVA wood glue (because she didn't want to t
 
 A few days after she'd finished the box, transferred her vegetables into it, and gotten over the excitement of it all (yes, boxes can be exciting), we were sitting on the deck admiring it. I asked her how she thought it went; any hurdles she encountered and how she overcame them, what she'd change next time, what she found out along the way, etc. She said she was very pleasantly surprised with how it turned out. She loved learning how to use all the tools and planning how she was going to turn the unwanted desk into something useful (it sounds like we may have found her a passion in upcycling furniture!). She said that she sees now that measuring is key, as she measured a couple of pieces of wood incorrectly and had to discard them from this project. She now knows to always measure twice. But her most astute observation from doing this, and the most important thing she will take away from this, is that, and I quote, "dirt is heavy". Yes Bridget, yes it is.
 
-<img src="{{site.url}}/images/Bridgets 1st woodworking project/planterbox2.jpg"/> 
+<img src="{{site.url}}/images/Bridgets 1st woodworking project/planterbox3.jpg"/> 
 <a class="image-captions">Our veggies love their new home!</a>
 <br>
