@@ -4,7 +4,7 @@ title:  "Finding The One"
 date:   2018-02-05 20:37:53 +0800 #re-adjust date as needed (post will not be shown untill that date)
 author: Alex Simpson
 ---
-<img src="{{site.url}}/images/finding-the-one/find-the-one.jpg"/> 
+<img src="{{site.url}}/images/finding-the-one/bus-hug.jpg"/> 
 
 Our bus purchasing journey was long, arduous and somewhat indecisive. We started off with a mutual dream. We fell deeply in love with this dream until we inevitably we stumbled across technicalities, legalities and all the other bad-alities that forced us to re-dream our idea.
 
