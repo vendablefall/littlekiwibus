@@ -14,6 +14,8 @@ We're back! Back into our routines after three very exciting weeks in New Zealan
 
  blahblah
  
+ blablbl 
+ 
  But we did everything we set out to do, and got through it in one piece. What really amazed me is how it took so long to tackle the first 10% of some tasks, but as soon as we'd figured out the most effective and efficient methods, the preceeding 90% took relativley no time at all. This will the focus of this blog post; how we overcame some of the more laborious tasks, what we found out along the way, and how we would do it more efficiently next time. And maybe you can cut through your 100% like we did our 90%.
 
  So, to get you started, here is a list of tools that will make the demolition stages a whole lot easier:
