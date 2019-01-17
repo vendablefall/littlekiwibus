@@ -25,9 +25,17 @@ testing testing 123
  Drill
  Impact driver
  Chisel bit for impact driver
+ Crowbars (watch your face)
+ Socket seto
+ Rivet remover (find example onlinem say we couldnt find one in nz but tom suggestd it)
+ Radio/music speaker
  
 
-One of the first tasks we had to tackle was the removal of the luggage compartments on the roof.
+One of the first tasks we had to tackle was the removal of the luggage compartments on the roof. We had already arranged to donate the seats to Otago Bus Heritage Society (they have a 1960s Bedford bus they're restoring with no seats, and we had a bus full of seats that would fit perfectly into it) and we thought about trying to remove the overhead luggage compartments neatly, in case they had a use for them too. These good intentions lasted about 10 minutes. 
+
+The bus wasn't built with the intention of being pulled apart
+
+So we gave up on this idea and turned to the reciprocating saw.
 
 Rivets.. so many rivets..
 
