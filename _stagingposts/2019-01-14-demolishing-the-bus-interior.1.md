@@ -8,17 +8,15 @@ author: Bridget Porter # name here
 
 We're back! Back into our routines after three very exciting weeks in New Zealand. We're still blissfully full of ham, Christmas pudding & Terry's Chocolate Oranges, and we even still have a bit of Christmas cheer.. but physically, we are pooped.
 
- It was three weeks of gruelling physical labour. Exciting, but gruelling. Half our holiday was spent inside the bus in the sweltering heat; the other half was spent crouched down underneath the bus with all our new spider acquaintances. It was a labour of love, one we would gladly do all over again. (Not anytime soon, just so we're clear.)
+ It was three weeks of physical labour. Exciting, but gruelling. Half our holiday was spent inside the bus in the sweltering heat; the other half was spent crouched down underneath the bus with all our new spider tenants. It was a labour of love, one we would gladly do over again. (Not anytime soon, just so we're clear.)
  
  We had our ups and downs; physically, mentally and emotionally. Alex whacked both of us (on separate occasions) in the face with a crowbar. Accidentally, I should add. That was definitely a lowlight. We had our usual trivial disagreements. I tend to under-communicate while Alex tends to over-communicate; an endless source of contention between us. There were days when we put everything we had into the job at hand, and had nothing to show for it at the end of the day. That was demoralising to say the least.
 
- blahblah
- 
-testing testing 123
-
- But we did everything we set out to do, and got through it in one piece. What really amazed me is how it took so long to tackle the first 10% of some tasks, but as soon as we'd figured out the most effective methods, the preceeding 90% took relatively no time at all. And so this will be the focus of this blog post; how we overcame some of the more laborious tasks, what we found out along the way, and how we would do it more efficiently next time. And maybe you can cut through your 100% like we did our 90%.
+ But we accomplished everything we set out to, and got through it in one piece. What really amazed me is how it took so long to tackle the first 10% of some tasks, but as soon as we'd figured out the most effective methods, the preceeding 90% took relatively no time at all. And so this will be the focus of this blog post; how we overcame some of the more laborious tasks, what we found out along the way, and how we would do it more efficiently next time. And maybe you can cut through your 100% like we did our 90%.
 
  So, to get you started, here is a list of tools that will make the demolition stages a whole lot easier:
+
+ TODO: bullet points
 
  Reciprocating saw (and LOTS of blades if you chew through them as quickly as we do)
  Angle grinder
@@ -44,6 +42,8 @@ We removed the rivets with a drill. The trick is to start with a drill bit sligh
 If I could give you just one piece of advice for your own demolition: get yourself a rivet remover! Drilling out a rivet is no fun at all. Drilling out thousands of rivets is even less fun.
 
 Then came the seemingly impossible job of removing the carpet from the wooden floors. It was seriously stuck. We tried and failed for hours. We tried blah blah.... In the end we bought a chisel end for our impact driver and one person used that to get between the carpet and the floor and the other person yanked. One trick we found made it all a lot easier was to cut strips in the carpet with a blade and just work in sections, rather than try and pull it all at once.
+
+Once the carpet had been removed and discarded (good riddance!), we attempted to pull up the wooden boards underneath. We thought it would just be a case of wedging the crowbar underneath and forcing it up... Wishful thinking. 
 
 Rivets.. so many rivets..
 
