@@ -6,10 +6,10 @@ author: Bridget Porter # name here
 ---
 We're back! Back into our routines after three very exciting weeks in New Zealand. We're still blissfully full of ham, Christmas pudding & Terry's Chocolate Oranges, and we even still have a bit of Christmas cheer.. but physically, we are pooped. Here we detail a few tips that we wish we knew at thr start of our demolision and the tools we used.
 
-<img src="{{site.url}}/images/bna-xmas.JPG"/> 
+<img src="{{site.url}}/images/demolishing-the-bus-interior/bna-xmas.jpg"/> 
 <a class="image-captions">Alex's *"do we have to be taking a photo right now"* face</a>
 
-<img src="{{site.url}}/images/christmas-dinner.JPG"/> 
+<img src="{{site.url}}/images/demolishing-the-bus-interior/christmas-dinner.jpg"/> 
 <a class="image-captions">Getting into the Christmas spirit by making ourselves uncomfortably full</a>
 <!--more--> 
 
@@ -24,12 +24,12 @@ Anyway, back to our Christmas "break". It was three weeks of physical labour. Ex
 
 We had our ups and downs; physically, mentally and emotionally. Alex whacked both of us (on separate occasions) in the face with a crowbar. Accidentally, I should add. That was definitely a lowlight. We had our usual trivial disagreements. I tend to under-communicate while Alex tends to over-communicate; an endless source of contention between us. There were days when we put everything we had into the job at hand, and had nothing to show for it at the end of the day. That was demoralising to say the least.
 
-<img src="{{site.url}}/images/dead-b.JPG"/> 
+<img src="{{site.url}}/images/demolishing-the-bus-interior/dead-b.jpg"/> 
 <a class="image-captions">Siestas are absolutely vital for a successful demolition </a>
 
 But we accomplished everything we set out to, and got through it in one piece. What really amazed me is how it took so long to tackle the first 10% of some tasks, but as soon as we'd figured out the most effective methods, the preceeding 90% took relatively no time at all. And so this will be the focus of this blog post; how we overcame some of the more laborious tasks, what we found out along the way, and how we would do it more efficiently next time. And maybe you can cut through your 100% like we did our 90%.
 
-<img src="{{site.url}}/images/blindfold.JPG"/> 
+<img src="{{site.url}}/images/demolishing-the-bus-interior/blindfold.jpg"/> 
 <a class="image-captions">Being led to our bus, about to see her in the flesh for the first time! *So nervous.* </a>
 
 ### Tools
@@ -45,7 +45,7 @@ So, to get you started, here is a list of tools that will make the demolition st
 * Socket set (a good one, should be mandatory for acr/bus work)
 * Radio/music speaker (to maintain everyone's sanity)
 
-<img src="{{site.url}}/images/recip-saw.JPG"/> 
+<img src="{{site.url}}/images/demolishing-the-bus-interior/recip-saw.jpg"/> 
 <a class="image-captions">As you can see, I have my safety goggles on my head to keep my hair out of my eyes... that's how they work right?</a>
 
 ### Rivets <A NAME="rivets">
@@ -54,7 +54,7 @@ Ah the rivets. I'd never used, or even seen a rivet before this project. So remo
 
 We removed the rivets with a drill. The trick is to start with a drill bit slightly smaller than the rivet to make a pilot hole, and then change to a bit the same size as the rivet. My brother (who's nearly more into this project than we are!) advised we should look for a "rivet remover", but when we went to the local Mitre 10 (for the 6th time that morning >_<) they claimed it didn't exist. As we were in a small town we didn't really have any other options, so we went back to our drill. However we consulted senor Google later on, and learnt that it definitely is a thing, you can get one on Amazon for $50. Damn you, small town Mitre 10.
 
-<img src="{{site.url}}/images/mitre-10.JPG"/> 
+<img src="{{site.url}}/images/demolishing-the-bus-interior/mitre-10.jpg"/> 
 <a class="image-captions">Mitre 10 quickly became our second home </a>
 
 ##### TLDR
@@ -67,7 +67,7 @@ Then came the seemingly impossible job of removing the carpet from the wooden fl
 ##### TLDR
 One trick we found made it all a lot easier was to cut the carpet into strips with a sharp blade and just try to remove a strip ata a time, rather than try and pull it all at once. We managed to do the right half of the bus in much less time than the left, and with much less back ache too.
 
-<img src="{{site.url}}/images/carpet-pull.JPG"/> 
+<img src="{{site.url}}/images/demolishing-the-bus-interior/carpet-pull.jpg"/> 
 <a class="image-captions">That really shouldn't have taken that much time or energy!</a>
 
 ### Wooden Floors <A NAME="floors">
@@ -77,12 +77,12 @@ Once the carpet had been removed and discarded (good riddance!), we attempted to
 ##### TLDR
 If you're ever faced with mystery screws hiding under a stubborn layer of 40 year old carpet, we found the most effective way to tackle it was with a "flappy disk" sandpaper attachment on an angle grinder. This way, even if the screw isn't where it should be, you've only wasted a second or two grinding through the layer of carpet to find this out.
 
-<img src="{{site.url}}/images/alex-floorboards.JPG"/> 
+<img src="{{site.url}}/images/demolishing-the-bus-interior/alex-floorboards.jpg"/> 
 <a class="image-captions">The look of someone who's just spent the better part of a day pulling up one single floorboard, and realising there's another 5 to go</a>
 
 Once we were finsished we could see that even though it seemed that there was no pattern to the screws location, they followed the sctructural beams underneath the floor. It seems obvious now, but if you're having trouble locating screws in your floorboards, have a quick look underneath the bus to see if you can make any sense of it. It took us days and days to figure this all out and find the best method. As you can imagine, pulling that last floorboard up felt *great*!
 
-<img src="{{site.url}}/images/floorboards.JPG"/> 
+<img src="{{site.url}}/images/demolishing-the-bus-interior/floorboards.jpg"/> 
 <a class="image-captions">Good riddance floorboards!</a>
 
 ### Overhead storage <A NAME="ostorage">
@@ -92,5 +92,5 @@ One of the tasks we had to tackle was the removal of the luggage compartments on
 ##### TLDR
 The compartments ran almost the whole length of the bus and even if we could detach them without destroying them we wouldn't have been able to get them out the door! So we turned to our favourite "shortcut tool", the reciprocating saw. We decided to cut the compartments into thirds and cut as close to the edge as we could, allowing us to pull out the bulk of the compartments, so we could get to the rivets that were holding them in place. 
 
-<img src="{{site.url}}/images/luggage.JPG"/> 
+<img src="{{site.url}}/images/demolishing-the-bus-interior/luggage.jpg"/> 
 <a class="image-captions">It's amazing how much space removing these opened up!</a>
