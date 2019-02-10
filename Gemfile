@@ -7,6 +7,6 @@ source "https://rubygems.org"
 gem "jekyll"
 gem "jekyll-paginate"
 gem "redcarpet"
-# https://github.com/alexivkin/Jekyll-Art-Gallery-Plugin needs:
-gem "rmagick"
-gem "exifr"
+
+# https://github.com/ggreer/jekyll-gallery-generator requires
+gem "jekyll-gallery-generator"

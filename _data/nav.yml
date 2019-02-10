@@ -7,15 +7,18 @@
 - name: About
   path: about.html
   section_id: about
+- name: Gallery
+  path: gallery/index.html
+  section_id: gallery
 #- name: "Contact Us"
 #  path: contact_us.html
 #  jump: '#contactus'
 #  section_id: "Contact Us"
-#- name: "Social Media"
-#  section_id: "Social Media"
-#  children:
-#   - name: Instagram
-#      path: https://instagram.com/littlekiwibus/
-#    - name: Pinterest
-#      path: https://au.pinterest.com/alexs0765/
+# - name: "Social Media"
+  # section_id: "Social Media"
+  # children:
+  #   - name: Instagram
+  #     path: https://instagram.com/littlekiwibus/
+  #   - name: Pinterest
+  #     path: https://au.pinterest.com/alexs0765/
 
