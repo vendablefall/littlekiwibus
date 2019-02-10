@@ -8,10 +8,10 @@
 #gems:
 #  - jekyll-art-gallery-generator
 
-source_dir: _portfolio  # original images, that will be cropped according to the size_limit, thumbnailed and posted
-title: Portfolio
-#sort_field: "timestamp"
-sort_field: "title" # sorting of the galleries on the gallery index page
+source_dir: _gallery  # original images, that will be cropped according to the size_limit, thumbnailed and posted
+title: Gallery
+sort_field: "timestamp"
+#sort_field: "title" # sorting of the galleries on the gallery index page
 #sort_reverse: true
 thumbnail_size:
   x: 250
@@ -44,12 +44,13 @@ galleries:
     #header_image: sy_header.jpg
     Super1.jpg: Set one
     SSDa2.jpg: All in two
-    scale_method: crop_bottom
+    scale_method: crop
   Paintings:
+    title: Shows in November # name used in the navigation bar and headers
     description: Egg tempera, acrylic and gold leaf on wood.
     best_image: Soob.jpg
     header_image: paintings_header.jpg
     scale_method: crop_bottom
     paintings.jpg: Nevy
-
+    scale_method: crop
 #symlink: true # to avoid copying big files into the generated site folder - does not work with stripping EXIF
