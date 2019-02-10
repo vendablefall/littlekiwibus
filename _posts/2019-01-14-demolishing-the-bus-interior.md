@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "demolishing the bus interior"
+title:  "Demolishing the bus interior"
 date:   2019-01-14 00:00:00 +0800 #re-adjust date as needed (post will not be shown untill that date)
 author: Bridget Porter # name here
 ---
@@ -9,16 +9,18 @@ We're back! Back into our routines after three very exciting weeks in New Zealan
 <img src="{{site.url}}/images/demolishing-the-bus-interior/bna-xmas.jpg"/> 
 <a class="image-captions">Alex's *"do we have to be taking a photo right now"* face</a>
 
+<!--more--> 
+
 <img src="{{site.url}}/images/demolishing-the-bus-interior/christmas-dinner.jpg"/> 
 <a class="image-captions">Getting into the Christmas spirit by making ourselves uncomfortably full</a>
-<!--more--> 
+
 
 
 Here are some TLDR (too long didn't read) links for those of you bus enthusiasts who are time poor and would rather skip the waffle and get straight to the helpful parts: <br>
-<A HREF="#rivets">Rivets</A> <br>
-<A HREF="#carpet">Carpet</A> <br>
-<A HREF="#floors">Wooden Floors</A> <br>
-<A HREF="#ostorage">Overhead Storge</A> <br>
+<a HREF="#rivets">Rivets</a> <br>
+<a HREF="#carpet">Carpet</a> <br>
+<a HREF="#floors">Wooden Floors</a> <br>
+<a HREF="#ostorage">Overhead Storge</a> <br>
 
 Anyway, back to our Christmas "break". It was three weeks of physical labour. Exciting, but gruelling. Half our holiday was spent inside the bus in the sweltering heat; the other half was spent crouched down underneath the bus with all our new spider friends. It was a labour of love, one we would gladly do over again. (Not anytime soon, just so we're clear.)
 
@@ -46,21 +48,25 @@ So, to get you started, here is a list of tools that will make the demolition st
 * Radio/music speaker (to maintain everyone's sanity)
 
 <img src="{{site.url}}/images/demolishing-the-bus-interior/recip-saw.jpg"/> 
-<a class="image-captions">As you can see, I have my safety goggles on my head to keep my hair out of my eyes... that's how they work right?</a>
+<a class="image-captions"><br>As you can see, I have my safety goggles on my head to keep my hair out of my eyes... that's how they work right?</a>
 
-### Rivets <A NAME="rivets">
+<div id="rivets"></div>
+
+### Rivets 
 
 Ah the rivets. I'd never used, or even seen a rivet before this project. So removing the first rivet was almost fun. Now I never want to see another rivet again.
 
 We removed the rivets with a drill. The trick is to start with a drill bit slightly smaller than the rivet to make a pilot hole, and then change to a bit the same size as the rivet. My brother (who's nearly more into this project than we are!) advised we should look for a "rivet remover", but when we went to the local Mitre 10 (for the 6th time that morning >_<) they claimed it didn't exist. As we were in a small town we didn't really have any other options, so we went back to our drill. However we consulted senor Google later on, and learnt that it definitely is a thing, you can get one on Amazon for $50. Damn you, small town Mitre 10.
 
 <img src="{{site.url}}/images/demolishing-the-bus-interior/mitre-10.jpg"/> 
-<a class="image-captions">Mitre 10 quickly became our second home </a>
+<a class="image-captions"><br>Mitre 10 quickly became our second home </a>
 
 ##### TLDR
 If I could give you just one piece of advice for your own demolition: get yourself a rivet remover! Drilling out a rivet is no fun at all. Drilling out thousands of rivets is even less fun. Thousands of rivets later, the inside skin from the bus was stripped. Weary, sore and dangerously low on enthusiasm, we moved on to the carpet.
 
-### Carpet <A NAME="carpet">
+<div id="carpet"></div>
+
+### Carpet 
 
 Then came the seemingly impossible job of removing the carpet from the wooden floors. It was seriously stuck to the floor. We tried and failed for *hours*. Remember the 10% I talked about earlier? Well we spent hours on this 10%. We tried pulling it up without gloved hands, both individually and together. All we gained from this were two very sore backs, and two very grumpy moods. In the end we bought a chisel end for our impact driver and one person drove the chisel inbetween the carpet and the floor while the other person yanked at the carpet. We did half of the carpet in one go. Needless to say it was *extrememly* hard, inefficient and demoralising. 
 
@@ -70,7 +76,9 @@ One trick we found made it all a lot easier was to cut the carpet into strips wi
 <img src="{{site.url}}/images/demolishing-the-bus-interior/carpet-pull.jpg"/> 
 <a class="image-captions">That really shouldn't have taken that much time or energy!</a>
 
-### Wooden Floors <A NAME="floors">
+ <div id="floors"></div>
+
+### Wooden Floors
 
 Once the carpet had been removed and discarded (good riddance!), we attempted to pull up the wooden boards underneath. We thought it would just be a case of wedging the crowbar underneath and forcing it up... Wishful thinking. I tried this. It didn't budge. Alex tried this. It didn't budge. After a lengthy fight between the crowbar and the wooden board (a fight with no winner and four losers) we noticed a big flathead screw holding it down. That explained that, and it seemed like an easy fix; we just needed to follow the screw in a straight line to find the rest, and once we find one and know the exact distance between them, it will be easy.... right? Surely there will be a pattern to where the screws are? As we say here in Australia; yeah nah. No pattern. Every time we thought we were onto something, we'd measure the distance where the next screw should be, and nothing. I should also point out that we couldn't see the wooden board, as half the carpet was still stuck to it, so locating these mystery screws was not as straight forward as it should have been.
 
@@ -85,7 +93,9 @@ Once we were finsished we could see that even though it seemed that there was no
 <img src="{{site.url}}/images/demolishing-the-bus-interior/floorboards.jpg"/> 
 <a class="image-captions">Good riddance floorboards!</a>
 
-### Overhead storage <A NAME="ostorage">
+<div id="ostorage"></div>
+
+### Overhead storage 
 
 One of the tasks we had to tackle was the removal of the luggage compartments on the roof. We had already arranged to donate the seats to Otago Bus Heritage Society; they have a 1960s Bedford bus with no seats that they're restoring, and we had a bus full of seats that would fit perfectly into it. We thought about trying to remove the overhead luggage compartments neatly, in case they had a use for them too. Unfortunately these good intentions lasted about 10 minutes. After a closer examination of said luggage compartments, we realised that taking them out without destroying them wasn't going to happen. The bus really wasn't built with the intention of being pulled apart. 
 
