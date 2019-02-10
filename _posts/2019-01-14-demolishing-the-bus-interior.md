@@ -6,10 +6,13 @@ author: Bridget Porter # name here
 ---
 We're back! Back into our routines after three very exciting weeks in New Zealand. We're still blissfully full of ham, Christmas pudding & Terry's Chocolate Oranges, and we even still have a bit of Christmas cheer.. but physically, we are pooped. Here we detail a few tips that we wish we knew at thr start of our demolision and the tools we used.
 
-<img src="{{site.url}}/images/AandB_stick.JPG"/> 
-<a class="image-ccodewordaptions">Twig art in India</a>
+<img src="{{site.url}}/images/bna-xmas.JPG"/> 
+<a class="image-captions">Alex's *"do we have to be taking a photo right now"* face</a>
 
+<img src="{{site.url}}/images/christmas-dinner.JPG"/> 
+<a class="image-captions">Making ourselves uncomfortably full</a>
 <!--more--> 
+
 
 TLDR (Too long didnt read) links: <br>
 <A HREF="#rivets">Rivets</A> <br>
@@ -23,6 +26,8 @@ We had our ups and downs; physically, mentally and emotionally. Alex whacked bot
 
 But we accomplished everything we set out to, and got through it in one piece. What really amazed me is how it took so long to tackle the first 10% of some tasks, but as soon as we'd figured out the most effective methods, the preceeding 90% took relatively no time at all. And so this will be the focus of this blog post; how we overcame some of the more laborious tasks, what we found out along the way, and how we would do it more efficiently next time. And maybe you can cut through your 100% like we did our 90%.
 
+<img src="{{site.url}}/images/blindfold.JPG"/> 
+<a class="image-captions">Being led to our bus, about to see her in the flesh for the first time! *So nervous.* </a>
 
 ### Tools
 So, to get you started, here is a list of tools that will make the demolition stages a whole lot easier:
