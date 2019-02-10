@@ -96,11 +96,12 @@ Once we were finsished we could see that even though it seemed that there was no
 <div id="ostorage"></div>
 
 ### Overhead storage 
+<img src="{{site.url}}/images/demolishing-the-bus-interior/luggage.jpg"/> 
+<a class="image-captions">It's amazing how much space removing these opened up!</a>
 
 One of the tasks we had to tackle was the removal of the luggage compartments on the roof. We had already arranged to donate the seats to Otago Bus Heritage Society; they have a 1960s Bedford bus with no seats that they're restoring, and we had a bus full of seats that would fit perfectly into it. We thought about trying to remove the overhead luggage compartments neatly, in case they had a use for them too. Unfortunately these good intentions lasted about 10 minutes. After a closer examination of said luggage compartments, we realised that taking them out without destroying them wasn't going to happen. The bus really wasn't built with the intention of being pulled apart. 
 
 ##### TLDR
 The compartments ran almost the whole length of the bus and even if we could detach them without destroying them we wouldn't have been able to get them out the door! So we turned to our favourite "shortcut tool", the reciprocating saw. We decided to cut the compartments into thirds and cut as close to the edge as we could, allowing us to pull out the bulk of the compartments, so we could get to the rivets that were holding them in place. 
 
-<img src="{{site.url}}/images/demolishing-the-bus-interior/luggage.jpg"/> 
-<a class="image-captions">It's amazing how much space removing these opened up!</a>
+
