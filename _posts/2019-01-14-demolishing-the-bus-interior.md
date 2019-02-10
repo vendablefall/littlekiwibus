@@ -7,15 +7,15 @@ author: Bridget Porter # name here
 We're back! Back into our routines after three very exciting weeks in New Zealand. We're still blissfully full of ham, Christmas pudding & Terry's Chocolate Oranges, and we even still have a bit of Christmas cheer.. but physically, we are pooped.
 
 <img src="{{site.url}}/images/AandB_stick.JPG"/> 
-<a class="image-captions">Twig art in India</a>
+<a class="image-ccodewordaptions">Twig art in India</a>
+
 <!--more--> 
 
-TLDR (Too long didnt read) links:
-..* Tools
-..* Rivets
-..* Carpet
-..* Wooden Floors
-..* Overhead Storge
+TLDR (Too long didnt read) links: <br>
+<A HREF="#rivets">Rivets</A> <br>
+<A HREF="#carpet">Carpet</A> <br>
+<A HREF="#floors">Wooden Floors</A> <br>
+<A HREF="#ostorage">Overhead Storge</A> <br>
 
 It was three weeks of physical labour. Exciting, but gruelling. Half our holiday was spent inside the bus in the sweltering heat; the other half was spent crouched down underneath the bus with all our new spider tenants. It was a labour of love, one we would gladly do over again. (Not anytime soon, just so we're clear.)
 
@@ -23,21 +23,22 @@ We had our ups and downs; physically, mentally and emotionally. Alex whacked bot
 
 But we accomplished everything we set out to, and got through it in one piece. What really amazed me is how it took so long to tackle the first 10% of some tasks, but as soon as we'd figured out the most effective methods, the preceeding 90% took relatively no time at all. And so this will be the focus of this blog post; how we overcame some of the more laborious tasks, what we found out along the way, and how we would do it more efficiently next time. And maybe you can cut through your 100% like we did our 90%.
 
+
 ### Tools
 So, to get you started, here is a list of tools that will make the demolition stages a whole lot easier:
 
-..* Reciprocating saw (and LOTS of blades if you chew through them as quickly as we do)
-..* Angle grinder
-..* Drill
-..* Impact driver
-..* Chisel bit for impact driver
-..* Crowbars (watch your face)
-..* Socket seto
-..* Rivet remover (find example onlinem say we couldnt find one in nz but tom suggestd it)
-..* Radio/music speaker (to keep you sane)
+* Reciprocating saw (and LOTS of blades if you chew through them as quickly as we do).
+* Angle grinder.
+* Drill
+* Impact driver
+* Chisel bit for impact driver
+* Crowbars (watch your face)
+* Socket set (a good one)
+* Rivet remover (find example onlinem say we couldnt find one in nz but tom suggestd it)
+* Radio/music speaker (to keep you sane)
 
 
-### Rivets
+### Rivets <A NAME="rivets">
 <img src="{{site.url}}/images/AandB_stick.JPG"/> 
 <a class="image-captions">Twig art in India</a>
 
@@ -48,7 +49,7 @@ We removed the rivets with a drill. The trick is to start with a drill bit sligh
 ##### TLDR
 If I could give you just one piece of advice for your own demolition: get yourself a rivet remover! Drilling out a rivet is no fun at all. Drilling out thousands of rivets is even less fun. Thousands of rivets later, the inside skin from the bus was stripped. Weary, sore and dangerously low on enthusiasm, we moved on to the carpet.
 
-### Carpet
+### Carpet <A NAME="carpet">
 <img src="{{site.url}}/images/AandB_stick.JPG"/> 
 <a class="image-captions">Twig art in India</a>
 
@@ -57,7 +58,7 @@ Then came the seemingly impossible job of removing the carpet from the wooden fl
 ##### TLDR
 One trick we found made it all a lot easier was to cut the carpet into strips with a sharp blade and just try to remove a strip ata a time, rather than try and pull it all at once. We managed to do the right half of the bus in much less time than the left, and with much less back ache too.
 
-### Wooden Floors
+### Wooden Floors <A NAME="floors">
 <img src="{{site.url}}/images/AandB_stick.JPG"/> 
 <a class="image-captions">Twig art in India</a>
 
@@ -68,7 +69,7 @@ If you're ever faced with mystery screws hiding under a stubborn layer of 40 yea
 
 Once we wer finsished we could see that even though it seemed that there was no pattern to the screws location, they followed the sctructural beams underneath the floor. It seems obvious now, but if you're having trouble locating screws in your floorboards, have a quick look underneath the bus to see if you can make any sense of it. It took us days and days to figure this all out and find the best method. As you can imagine, pulling that last floorboard up felt *great*!
 
-### Overhead storage
+### Overhead storage <A NAME="ostorage">
 <img src="{{site.url}}/images/AandB_stick.JPG"/> 
 <a class="image-captions">Twig art in India</a>
 
