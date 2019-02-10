@@ -4,7 +4,7 @@ title:  "demolishing the bus interior"
 date:   2019-01-14 00:00:00 +0800 #re-adjust date as needed (post will not be shown untill that date)
 author: Bridget Porter # name here
 ---
-We're back! Back into our routines after three very exciting weeks in New Zealand. We're still blissfully full of ham, Christmas pudding & Terry's Chocolate Oranges, and we even still have a bit of Christmas cheer.. but physically, we are pooped.
+We're back! Back into our routines after three very exciting weeks in New Zealand. We're still blissfully full of ham, Christmas pudding & Terry's Chocolate Oranges, and we even still have a bit of Christmas cheer.. but physically, we are pooped. Here we detail a few tips that we wish we knew at thr start of our demolision and the tools we used.
 
 <img src="{{site.url}}/images/AandB_stick.JPG"/> 
 <a class="image-ccodewordaptions">Twig art in India</a>
@@ -27,15 +27,15 @@ But we accomplished everything we set out to, and got through it in one piece. W
 ### Tools
 So, to get you started, here is a list of tools that will make the demolition stages a whole lot easier:
 
-* Reciprocating saw (and LOTS of blades if you chew through them as quickly as we do).
-* Angle grinder.
-* Drill
-* Impact driver
+* Angle grinder. (get a cord powered one, our battery version was underwhelming)
+* Reciprocating saw (and LOTS of blades if you chew through them as quickly as we do, and get a cord version, see above)
+* Drill (great for removing rivets)
+* Impact driver (great for lifting carpet)
 * Chisel bit for impact driver
-* Crowbars (watch your face)
-* Socket set (a good one)
-* Rivet remover (find example onlinem say we couldnt find one in nz but tom suggestd it)
-* Radio/music speaker (to keep you sane)
+* Crowbars (atleast one, great for eveything demolishion)
+* Socket set (a good one, should be mandatory for acr/bus work)
+* Rivet remover (we couldnt find one, but we sure wish we did..)
+* Radio/music speaker (to keep everyones sanity)
 
 
 ### Rivets <A NAME="rivets">
