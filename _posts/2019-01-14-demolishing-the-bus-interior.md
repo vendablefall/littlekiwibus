@@ -17,6 +17,7 @@ We're back! Back into our routines after three very exciting weeks in New Zealan
 
 
 Here are some TLDR (too long didn't read) links for those of you bus enthusiasts who are time poor and would rather skip the waffle and get straight to the helpful parts: <br>
+<a HREF="#tools">Tools</a> <br>
 <a HREF="#rivets">Rivets</a> <br>
 <a HREF="#carpet">Carpet</a> <br>
 <a HREF="#floors">Wooden Floors</a> <br>
@@ -33,6 +34,8 @@ But we accomplished everything we set out to, and got through it in one piece. W
 
 <img src="{{site.url}}/images/demolishing-the-bus-interior/blindfold.jpg"/> 
 <a class="image-captions">Being led to our bus, about to see her in the flesh for the first time! *So nervous.* </a>
+
+<div id="tools"></div>
 
 ### Tools
 So, to get you started, here is a list of tools that will make the demolition stages a whole lot easier:
