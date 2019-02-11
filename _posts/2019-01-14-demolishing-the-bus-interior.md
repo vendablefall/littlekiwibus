@@ -67,31 +67,30 @@ If I could give you just one piece of advice for your own demolition: get yourse
 <div id="carpet"></div>
 
 ### Carpet 
+<img src="{{site.url}}/images/demolishing-the-bus-interior/carpet-pull.jpg"/> 
+<a class="image-captions">That really shouldn't have taken that much time or energy!</a>
 
 Then came the seemingly impossible job of removing the carpet from the wooden floors. It was seriously stuck to the floor. We tried and failed for *hours*. Remember the 10% I talked about earlier? Well we spent hours on this 10%. We tried pulling it up without gloved hands, both individually and together. All we gained from this were two very sore backs, and two very grumpy moods. In the end we bought a chisel end for our impact driver and one person drove the chisel inbetween the carpet and the floor while the other person yanked at the carpet. We did half of the carpet in one go. Needless to say it was *extrememly* hard, inefficient and demoralising. 
 
 ##### TLDR
 One trick we found made it all a lot easier was to cut the carpet into strips with a sharp blade and just try to remove a strip ata a time, rather than try and pull it all at once. We managed to do the right half of the bus in much less time than the left, and with much less back ache too.
 
-<img src="{{site.url}}/images/demolishing-the-bus-interior/carpet-pull.jpg"/> 
-<a class="image-captions">That really shouldn't have taken that much time or energy!</a>
 
  <div id="floors"></div>
 
 ### Wooden Floors
+<img src="{{site.url}}/images/demolishing-the-bus-interior/alex-floorboards.jpg"/> 
+<a class="image-captions">The look of someone who's just spent the better part of a day pulling up one single floorboard, and realising there's another 5 to go</a>
 
 Once the carpet had been removed and discarded (good riddance!), we attempted to pull up the wooden boards underneath. We thought it would just be a case of wedging the crowbar underneath and forcing it up... Wishful thinking. I tried this. It didn't budge. Alex tried this. It didn't budge. After a lengthy fight between the crowbar and the wooden board (a fight with no winner and four losers) we noticed a big flathead screw holding it down. That explained that, and it seemed like an easy fix; we just needed to follow the screw in a straight line to find the rest, and once we find one and know the exact distance between them, it will be easy.... right? Surely there will be a pattern to where the screws are? As we say here in Australia; yeah nah. No pattern. Every time we thought we were onto something, we'd measure the distance where the next screw should be, and nothing. I should also point out that we couldn't see the wooden board, as half the carpet was still stuck to it, so locating these mystery screws was not as straight forward as it should have been.
 
 ##### TLDR
-If you're ever faced with mystery screws hiding under a stubborn layer of 40 year old carpet, we found the most effective way to tackle it was with a "flappy disk" sandpaper attachment on an angle grinder. This way, even if the screw isn't where it should be, you've only wasted a second or two grinding through the layer of carpet to find this out.
-
-<img src="{{site.url}}/images/demolishing-the-bus-interior/alex-floorboards.jpg"/> 
-<a class="image-captions">The look of someone who's just spent the better part of a day pulling up one single floorboard, and realising there's another 5 to go</a>
-
-Once we were finsished we could see that even though it seemed that there was no pattern to the screws location, they followed the sctructural beams underneath the floor. It seems obvious now, but if you're having trouble locating screws in your floorboards, have a quick look underneath the bus to see if you can make any sense of it. It took us days and days to figure this all out and find the best method. As you can imagine, pulling that last floorboard up felt *great*!
+If you're ever faced with mystery screws hiding under a stubborn layer of 40 year old carpet, we found the most effective way to tackle it was with a "flappy disk" sandpaper attachment on an angle grinder. This way, even if the screw isn't where it should be, you've only wasted a second or two grinding through the layer of carpet to find this out. Secondly and more importantly, if you looking for fastening bolts, have a look around the back and if you can see what they are bolted into, we found this out way too late.
 
 <img src="{{site.url}}/images/demolishing-the-bus-interior/floorboards.jpg"/> 
 <a class="image-captions">Good riddance floorboards!</a>
+
+Once we were finsished we could see that even though it seemed that there was no pattern to the screws location, they followed the sctructural beams underneath the floor. It seems obvious now, but if you're having trouble locating screws in your floorboards, have a quick look underneath the bus to see if you can make any sense of it. It took us days and days to figure this all out and find the best method. As you can imagine, pulling that last floorboard up felt *great*!
 
 <div id="ostorage"></div>
 
@@ -101,7 +100,13 @@ Once we were finsished we could see that even though it seemed that there was no
 
 One of the tasks we had to tackle was the removal of the luggage compartments on the roof. We had already arranged to donate the seats to Otago Bus Heritage Society; they have a 1960s Bedford bus with no seats that they're restoring, and we had a bus full of seats that would fit perfectly into it. We thought about trying to remove the overhead luggage compartments neatly, in case they had a use for them too. Unfortunately these good intentions lasted about 10 minutes. After a closer examination of said luggage compartments, we realised that taking them out without destroying them wasn't going to happen. The bus really wasn't built with the intention of being pulled apart. 
 
-##### TLDR
 The compartments ran almost the whole length of the bus and even if we could detach them without destroying them we wouldn't have been able to get them out the door! So we turned to our favourite "shortcut tool", the reciprocating saw. We decided to cut the compartments into thirds and cut as close to the edge as we could, allowing us to pull out the bulk of the compartments, so we could get to the rivets that were holding them in place. 
+
+##### TLDR
+Our tip from this part of the project, At the start of the demolision, decide what you are trying to keep and what you arnt, dont spend any time trying to preserve items you are not intending to keep, cut them in half and get rid of them as quickly as possible, you will spend enough time on the project struggling with unexpected setbacks you dont need to spend more time wondering if you shouild preserve "junk".
+
+Hopefully you gained something out of our post today, and if not, thanks for reading :-)
+
+Untill next time.
 
 
