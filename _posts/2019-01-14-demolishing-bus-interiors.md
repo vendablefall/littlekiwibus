@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our tips on demolishing our bus interior"
+title:  "Our tips on demolishing bus interiors"
 date:   2019-01-14 00:00:00 +0800 #re-adjust date as needed (post will not be shown untill that date)
 author: Bridget Porter # name here
 ---
