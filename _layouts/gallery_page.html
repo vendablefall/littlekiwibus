@@ -10,6 +10,6 @@ section_id: gallery
         <a href="{{ image.name }}"{% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]"{% endif %}>
             <img class="gallery-image" src="thumbs/{{ image.name }}" />
         </a>
-        <a class="gallery-captions">{{ image.name }}</a>
+        <a href="{{ image.name }}"{% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]"{% endif %} class="gallery-captions">{{ image.name }}</a>
     </div>
 {% endfor %}

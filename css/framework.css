@@ -20,7 +20,8 @@
 .gallery-wrapper {
   width: 35em;
   text-align: center;
-  padding: 1em 0 4em 0;
+  padding: 3em 0 0em 0;
+  margin: auto
 }
 .gallery-best-image{
   max-height: 20em;
