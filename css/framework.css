@@ -28,6 +28,9 @@
   max-width: 20em;
 }
 /* gallery generator page*/
+.gallery-title {
+  margin: auto;
+}
 .gallery-image-wrapper {
   height: 300px;
   width: 300px;

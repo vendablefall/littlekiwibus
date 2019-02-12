@@ -2,8 +2,9 @@
 layout: default
 section_id: gallery
 ---
-<h1><a href="/{{ site.gallery.dir }}">{{ page.title }}</a></h1>
+<h1 style="text-align: center"><a href="/{{ site.gallery.dir }}" class="gallery-title">{{ page.title }}</a></h1>
 <hr />
+<div>
 {% for image in page.images %}
     <div class="gallery-image-wrapper">
         <a name="{{ image.name }}"></a>
@@ -13,3 +14,4 @@ section_id: gallery
         <a href="{{ image.name }}"{% if site.gallery.lightbox %} rel="lightbox[{{ page.gallery }}]"{% endif %} class="gallery-captions">{{ image.name }}</a>
     </div>
 {% endfor %}
+</div>
