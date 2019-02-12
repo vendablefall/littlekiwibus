@@ -39,7 +39,7 @@ gallery:
       best_image: DSC_5462.jpg  # The image to show on the gallery index page. Defaults to the last image.
       name: "Measurement Photos"  
     Picking Up Our Bus:
-      best_image: IMG_0091.JPG  # The image to show on the gallery index page. Defaults to the last image.
+      best_image: IMG_0090.JPG  # The image to show on the gallery index page. Defaults to the last image.
       name: "Picking Up Our Bus"        
     with_info:
       info:
