@@ -1,5 +1,6 @@
 ---
 ---
+/* custom captions */
 .image-captions {  
   font-size: 80%;
   font-style: italic; 
@@ -15,7 +16,33 @@
   top: 19px;
   color: {{ site.captiontextcolor }};
 }
-
+/* gallery generator index */
+.gallery-wrapper {
+  width: 35em;
+  text-align: center;
+  padding: 1em 0 4em 0;
+}
+.gallery-best-image{
+  max-height: 20em;
+  max-width: 20em;
+}
+/* gallery generator page*/
+.gallery-image-wrapper {
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+  margin: 1em;
+  position: relative;
+}
+.gallery-image {
+  margin: auto;
+  position: absolute;
+  top: 50%;
+  bottom: 50%;
+  max-height: 100%;
+  max-width: 100%;
+}
+/* default */
 .post-img{
 max-width: 50%
 }
