@@ -6,6 +6,16 @@
   color: {{ site.captiontextcolor }};
 }
 
+.gallery-captions {  
+  font-size: 80%;
+  font-style: italic; 
+  position: bottom;
+  display: block;
+  position: absolute;
+  top: 19px;
+  color: {{ site.captiontextcolor }};
+}
+
 .post-img{
 max-width: 50%
 }

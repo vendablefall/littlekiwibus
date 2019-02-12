@@ -22,7 +22,11 @@ stephs-bg: "#F4F7F0"
 scotts-grey: "#646569"
 captiontextcolor: "#000000"
 
+plugins:
+  - jekyll-gallery-generator
+  - jekyll-paginate
 
+# #jekyll-gallery-generator
 gallery:
   dir: gallery               # Path to the gallery
   symlink: false            # false: copy images into _site. true: create symbolic links (saves disk space)
@@ -35,12 +39,14 @@ gallery:
     y: 400                  # max height of thumbnails (in pixels)
   # The following options are for individual galleries.
   galleries:
-    Measurement Photos:
+    Measurement-Photos:
       best_image: DSC_5462.jpg  # The image to show on the gallery index page. Defaults to the last image.
       name: "Measurement Photos"  
-    Picking Up Our Bus:
+      # dir: Measurement-Photos
+    Picking-Up-Our-Bus:
       best_image: IMG_0090.JPG  # The image to show on the gallery index page. Defaults to the last image.
-      name: "Picking Up Our Bus"        
+      name: "Picking Up Our Bus"  
+      # dir: Picking-Up-Our-Bus      
     with_info:
       info:
         desc: "Gallery Description" # Info fields can be used in custom templates.
