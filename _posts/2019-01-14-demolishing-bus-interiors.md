@@ -66,6 +66,19 @@ We removed the rivets with a drill. The trick is to start with a drill bit sligh
 ##### TLDR
 If I could give you just one piece of advice for your own demolition: get yourself a rivet remover! Drilling out a rivet is no fun at all. Drilling out thousands of rivets is even less fun. Thousands of rivets later, the inside skin from the bus was stripped. Weary, sore and dangerously low on enthusiasm, we moved on to the carpet.
 
+<div id="ostorage"></div>
+
+### Overhead storage 
+<img src="{{site.url}}/images/demolishing-bus-interiors/luggage.jpg"/> 
+<a class="image-captions">It's amazing how much space removing these opened up!</a>
+
+One of the tasks we had to tackle was the removal of the luggage compartments on the roof. We had already arranged to donate the seats to Otago Bus Heritage Society; they have a 1960s Bedford bus with no seats that they're restoring, and we had a bus full of seats that would fit perfectly into it. We thought about trying to remove the overhead luggage compartments neatly, in case they had a use for them too. Unfortunately, these good intentions lasted about 10 minutes. After a closer examination of said luggage compartments, we realised that taking them out without destroying them wasn't going to happen. The bus really wasn't built with the intention of being pulled apart. 
+
+The compartments ran almost the whole length of the bus, and even if we could detach them without destroying them we wouldn't have been able to get them out the door! So we turned to our favourite "shortcut tool", the reciprocating saw. We decided to cut the compartments into thirds and cut as close to the edge as we could, allowing us to pull out the bulk of them so we could get to the rivets that were holding them in place. 
+
+##### TLDR
+At the start of the demolition, decide what you are trying to keep and what you aren't, don't spend any time trying to preserve items you do not intend to keep. Cut those items in half and get rid of them as quickly as possible, you will spend enough time on the project struggling with unexpected setbacks, you don't need to spend more time wondering if you should preserve "junk".
+
 <div id="carpet"></div>
 
 ### Carpet 
@@ -94,18 +107,6 @@ If you're ever faced with mystery screws hiding under a stubborn layer of 40-yea
 
 Once we were finished, we could see that even though it seemed that there was no pattern to the screws location, they followed the structural beams underneath the floor. It seems obvious now, but if you're having trouble locating screws in your floorboards, have a quick look underneath the bus to see if you can make any sense of it. It took us days and days to figure this all out and find the best method. As you can imagine, pulling that last floorboard up felt *great*!
 
-<div id="ostorage"></div>
-
-### Overhead storage 
-<img src="{{site.url}}/images/demolishing-bus-interiors/luggage.jpg"/> 
-<a class="image-captions">It's amazing how much space removing these opened up!</a>
-
-One of the tasks we had to tackle was the removal of the luggage compartments on the roof. We had already arranged to donate the seats to Otago Bus Heritage Society; they have a 1960s Bedford bus with no seats that they're restoring, and we had a bus full of seats that would fit perfectly into it. We thought about trying to remove the overhead luggage compartments neatly, in case they had a use for them too. Unfortunately, these good intentions lasted about 10 minutes. After a closer examination of said luggage compartments, we realised that taking them out without destroying them wasn't going to happen. The bus really wasn't built with the intention of being pulled apart. 
-
-The compartments ran almost the whole length of the bus, and even if we could detach them without destroying them we wouldn't have been able to get them out the door! So we turned to our favourite "shortcut tool", the reciprocating saw. We decided to cut the compartments into thirds and cut as close to the edge as we could, allowing us to pull out the bulk of them so we could get to the rivets that were holding them in place. 
-
-##### TLDR
-At the start of the demolition, decide what you are trying to keep and what you aren't, don't spend any time trying to preserve items you do not intend to keep. Cut those items in half and get rid of them as quickly as possible, you will spend enough time on the project struggling with unexpected setbacks, you don't need to spend more time wondering if you should preserve "junk".
 
 Hopefully, you gained something out of our post today, and if not, thanks for reading :-)
 
