@@ -18,9 +18,10 @@ Here are some TLDR (too long didn't read) links for those of you bus enthusiasts
 <br>
 <a HREF="#tools">Tools</a> <br>
 <a HREF="#rivets">Rivets</a> <br>
+<a HREF="#ostorage">Overhead Storge</a> <br>
 <a HREF="#carpet">Carpet</a> <br>
 <a HREF="#floors">Wooden Floors</a> <br>
-<a HREF="#ostorage">Overhead Storge</a> <br>
+
 
 Anyway, back to our Christmas "break". It was three weeks of physical labour. Exciting, but gruelling. Half our holiday was spent inside the bus in the sweltering heat; the other half was spent crouched down underneath the bus with all our new spider friends. It was a labour of love, one we would gladly do over again. (Not anytime soon, just so we're clear.)
 
