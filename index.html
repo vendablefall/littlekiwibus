@@ -17,46 +17,48 @@ works1:
 #    category: Design &amp; Development
 
 works2:
-  - image: bus_progression_1-400-260-flipped.png
+  - image: bus_progression_1-400-260.png
     title: Our Bus!
 #    category: Design &amp; Development
-  - image: bus_progression_2-400-260-flipped.png
+  - image: bus_progression_2-400-260.png
     title: All stripped down!
 #    category: Design &amp; Development
-  - image: bus_progression_3-400-260-flipped.png
+  - image: bus_progression_3-400-260.png
     title: We cut the roof off!
 #    category: Design &amp; Development
-  - image: bus_progression_4-400-260-flipped.png
+  - image: bus_progression_4-400-260.png
     title: What she looks like today!
 #    category: Design &amp; Development
 
 ---
-<div class='special-title centered-text' style="padding: 30px">
-  <img src='{{site.url}}/images/LKB_logo_400-400.png' style='max-width:100%;'></img>
+<div class='special-title centered-text' style="padding: 10px">
+  <img src='{{site.url}}/images/LKB_logo_400-400-flipped.png' style='max-width:100%;'></img>
+</div>
+<div class=''>
+  <div style="padding:30px;text-align:center;font-size:21px">
+  Follow one Welsh girl and one Kiwi boy on their journey towards housebus ownership.
+  </div>
+  <div class='spacing'>
+  </div>
+  <ul class='gallery small-block-grid-2 medium-block-grid-3 large-block-grid-4'>
+    {% for work in page.works2 %}
+      <li>
+        <a>
+          <img src='{{site.url}}/images/{{ work.image }}'>
+          <div class='overlay'>
+            <div class='thumb-info'>
+              <h3>{{ work.title }}</h3>
+              <p>{{ work.category }}</p>
+            </div>
+          </div>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
 
-<div class='spacing'></div>
-<ul class='gallery small-block-grid-2 medium-block-grid-3 large-block-grid-4'>
-  {% for work in page.works2 %}
-    <li>
-      <a>
-        <img src='{{site.url}}/images/{{ work.image }}'>
-        <div class='overlay'>
-          <div class='thumb-info'>
-            <h3>{{ work.title }}</h3>
-            <p>{{ work.category }}</p>
-          </div>
-        </div>
-      </a>
-    </li>
-  {% endfor %}
-</ul>
-<div class=''>
-    <div style="padding:30px;text-align:center;font-size:20px">
-Follow one Welsh girl and one Kiwi boy on their journey towards housebus ownership.
-</div>
-</div>
 <br>
+<div class='spacing'></div>
 <a class='button' href='{{site.url}}/about.html' style="margin:auto;display:block;width:200px">About Us</a>
 <br>
 <a class='button' href='{{site.url}}/blog' style="margin:auto;display:block;width:200px">Blog</a>
