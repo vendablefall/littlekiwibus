@@ -8,5 +8,5 @@ gem "jekyll"
 gem "jekyll-paginate"
 gem "redcarpet"
 
-# https://github.com/ggreer/jekyll-gallery-generator requires
+# # https://github.com/ggreer/jekyll-gallery-generator requires
 gem "jekyll-gallery-generator"
