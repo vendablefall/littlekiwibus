@@ -7,20 +7,29 @@ highlighter: pygments
 plugins: [jekyll-paginate, jekyll-gallery-generator]
 disqus: littlekiwibus
 background1: "#F4F7F0"
-secondcolor: "#9ccc66"
+# secondcolor: "#9ccc66"
+secondcolor: "#f58220"
+
 navhovercolor: #000000
 font: 'font-family: "Nunito", sans-serif;'
 footercolor: "#F4F7F0"
 buttoncolor: "#F4F7F0"
 buttontextcolor: "#646569"
-buttonhovercolor: "#9ccc66"
+# buttonhovercolor: "#9ccc66"
+buttonhovercolor: "#f58220"
+
 buttonbordercolor: "#646569"
 worksoverlaycolor: "#f6f6f6"
 linktextcolor: "#646569"
-linktexthovercolor: "#9ccc66"
+# linktexthovercolor: "#9ccc66"
+linktexthovercolor: "#f58220"
+
 stephs-bg: "#F4F7F0"
 scotts-grey: "#646569"
 captiontextcolor: "#000000"
+
+
+# orange = f58220
 
 plugins:
   - jekyll-gallery-generator
