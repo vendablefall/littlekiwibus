@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "<put title in here>"
-date:   2014-05-05 20:37:53 +0800 #re-adjust date as needed (post will not be shown untill that date)
+title:  "Rust Repair Regegades"
+date:   2019-09-01 00:00:01 +1200 
 author: Andy Budd # name here
 ---
 <img src="{{site.url}}/images/Bridgets 1st woodworking project/circular_saw.jpg" /> 
