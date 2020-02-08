@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Framing "those" windows"
+title:  "making the transition from low roof to high"
 date:   2020-01-01 00:00:01 +1200 
 author: Andy Budd # name here
 ---
@@ -8,16 +8,14 @@ author: Andy Budd # name here
 <a class="image-captions">Bridget's first cut with the circular saw</a>
 <br>
 
-intro, bg oin the wondows we had and why
+intro, 
 
-framing windows + door = learnt from joe 
+why? (differebnt level roofs)
 
-(should we add the transition piece to this post?)
+how did we make it?
 
-scarse internet resources
+lol at ply sheeting
 
-how we planned
-
-how it worked out
+welding warping, and clecos
 
 conclusion / advice
