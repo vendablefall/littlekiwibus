@@ -37,6 +37,8 @@ Making replacement peices was again one of the easier tasks, welding is great in
 
 <!-- welding -->
 
+Now at the start of the rust repair, I was scared and excited (feelings) by the end we were confident and sick of it. I definatley got a LOT better at welding throughout this build, and having Adam there on day one to set up the welder and give me some rusty metal tips made the start a  lot less confronting, and gave us to confidence to forge a new path, one full of holes in clothes and swearing as molten slag drops down your shoe... ahh the good times :p
+
 <!-- rust proofing ( hammerite, rust coinvertor and under body sealer) -->
 
 <!-- conslusion / advice -->
