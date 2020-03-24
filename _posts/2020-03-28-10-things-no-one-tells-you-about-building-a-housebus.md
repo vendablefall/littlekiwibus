@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "<10 things no one tells you about building a housebus>"
-date:   2014-05-05 20:37:53 +0800 #re-adjust date as needed (post will not be shown untill that date)
+title:  "10 things no one tells you about building a housebus"
+date:   2020-03-20 20:37:53 +0800 #re-adjust date as needed (post will not be shown untill that date)
 author: Bridget Porter
 ---
 
@@ -10,6 +10,7 @@ author: Bridget Porter
 <img src="{{site.url}}/images/10-things-no-one-tells-you/dad.jpg" /> 
 <a class="image-captions">The greatest writer, and me.</a>
 <br>
+<!--more--> 
 It's a common aspiration amongst adventurers - bidding a sweet farewell to the rat race society forces us into, and embarking on a lifelong nomadic journey in some form of mobile home. It's the kind of freedom so many of us crave, and rightly so. We were born to roam, explore, discover. We definitely weren't born to sit miserably in front of a computer screen and make the rich richer.
 <br>
 <img src="{{site.url}}/images/10-things-no-one-tells-you/campfire.jpg" /> 
