@@ -1,0 +1,32 @@
+version: 0.2
+
+# DONT EDIT OUTSIDE HERE, UNLESS YOU HAVE TO...
+##########################################################################
+environment_variables:
+  plaintext:
+    ENV_VERSION: "A" # MAX LENGTH: 27 chars
+#############################################################################
+
+phases:
+
+  install:
+    commands:
+      - echo Entered the install phase...
+      - apt-get update
+      - apt-get install -y ruby-full build-essential
+      - echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+      - echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+      - echo 'export PATH="$HOME/gems/bin:$PATH"  ' >> ~/.bashrc
+      - source ~/.bashrc
+      - gem install jekyll bundler
+      - bundle install
+
+  build:
+    commands:
+      - echo Entered the build phase...
+      - bundle exec jekyll build
+
+  post_build:
+    commands:
+      - echo Entered the post_build phase...
+      - aws s3 sync _site/ s3://littlekiwibus.com --acl public-read
