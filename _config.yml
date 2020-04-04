@@ -1,5 +1,5 @@
 name: LittleKiwiBus
-markdown: redcarpet
+markdown: kramdown
 excerpt_separator: <!--more-->
 paginate: 3
 paginate_path: "/blog/page:num/"
