@@ -7,6 +7,7 @@ author: Bridget Porter
 
 *I'm writing this post because the greatest writer in the world, my Dad, just whatsapped me to tell me that he'd re-read an old blog post of mine, that it was wonderful and that he was patiently awaiting a new one. And what do you do if the world's greatest writer says he's waiting for a blog post from you? You write a blog post, of course. So this is for you Dad, thanks for the motivation and a lifetime of inspiration!*
 <br>
+<br>
 <img src="{{site.url}}/images/10-things-no-one-tells-you/dad.jpg" /> 
 <a class="image-captions">The greatest writer, and me.</a>
 <br>
@@ -48,11 +49,11 @@ There are a million and one positives to this project and everything it entails,
 The worst injuries the bus has seen so far have both involved Alex. There was the time he fell off the top of the bus; luckily he's an excellent faller and rolled his way gracefully out of a broken back. Then there was the time he sliced his knee open with an oversized cutting disk on the angle grinder. He was making an awkward (hence the oversized disk) cut and the disk bit on the frame, and still whizzing-violently, it flung itself towards Alex before he had time to react. It sliced his leg right open,  above his knee cap, just missing his quadriceps tendon. We were very lucky it wasn't worse than it was.
 <br>
 <br>
-*The funny part is that the awkward cut he was making , was the final cut that seperated the bus' roof from its body before the roof raise, and with the wind that had picked up while we were working, there was just no way we could pause the job and nip off to the hospital. We had to reattach the back safely before we went anywhere. So we worked together (Alex welding in the new pieces without moving from his corner, and me making good use of my two working legs and doing everything else) for 4 or 5 hours until the job was done, and then we took poor Alex to the local hospital to be stitched back together.*
-<br>
-<br>
 <img src="{{site.url}}/images/10-things-no-one-tells-you/alex-hospital.jpg" /> 
 <a class="image-captions">Poor little poppet.</a>
+<br>
+<br>
+*The funny part is that the awkward cut he was making was the final cut that seperated the bus' roof from its body before the roof raise, and with the wind that had picked up while we were working, there was just no way we could pause the job and nip off to the hospital. We had to reattach the back safely before we went anywhere. So we worked together (Alex welding in the new pieces without moving from his corner, and me making good use of my two working legs and doing everything else) for 4 or 5 hours until the job was done, and then we took poor Alex to the local hospital to be stitched back together.*
 <br>
 <br>
 **You will injure yourself emotionally.** I was not prepared for this. Physical pain I can handle, but the emotional anguish that comes with this a project of this size - that's a whole other story. Expect days when you give everything you've got, and realise you've gone backwards. Expect to feel like a complete idiot when your overworked brain makes a stupid mstake. Expect to question yourself so much that you lose sight of what you're working for. We have both worked through so many tears on this build (me especially - I'm a crier), and I know there are plenty more to come. Don't let this scare you, just be aware of it. Take it all one day at a time and it will all feel a lot more manageable. One task at a time, even. The important thing to remember is that you are learning, and mistakes happen when you're learning - it means you're improving. Be kind to yourself, and be kind to your building partner.
@@ -66,7 +67,7 @@ The worst injuries the bus has seen so far have both involved Alex. There was th
 <br>
 <br>
 <img src="{{site.url}}/images/10-things-no-one-tells-you/making-mistakes.jpg" /> 
-<a class="image-captions">Now we've had months to get over it, we can now laugh at how happy both Tom and I look, not knowing that we are both actually making mistakes!</a>
+<a class="image-captions">Now we've had months to get over it, we can now laugh at how happy both Tom and I look here, both blissfully unaware that we are both actually making mistakes!</a>
 <br>
 <br>
 **You will spend countless hours fixing mistakes you've made previously, and it will be soul crushing.** Going backwards is one thing, but the time you spend fixing these backward steps is just painful! We've learnt the hard way that short cuts aren't for us. If we do ever decide to take one, it's after an excessive amount of consideration. We've learnt that the "right way" is invariably quicker than any short cuts, even if it doesn't seem that way at the time - ESPECIALLY if you're new to this kind of work. So please, for us, do it once and do it right.
@@ -84,9 +85,12 @@ The worst injuries the bus has seen so far have both involved Alex. There was th
 <br>
 <br>
 **A budget is essential, but be prepared to exceed your budget.** The big ticket items like fridges and toilets and whatnot are easy enough to predict. It's the little things that take you by unwelcome surprise. You'd be surprised how much you end up spending on cutting, grinding & sanding disks, screws, etc. Heck, we've spent $200 on rivets. And we're not even done ordering them! We definitely didn't budget for that. We'd also anticipated the sheet steel to reskin the bus would be roughly $1000, alas it's that x3 plus some. We do make up for these losses in other areas, just be prepared for some fluctuation. And it's ALWAYS a good idea to budget for "shit hitting the fan". We decided to save twice as much money as we'd predicted we would need - and hopefully we'll have a nice chunk leftover, but it takes the pressure off a little.
-
-PHOTO: RIVETS
-
+<br>
+<br>
+<img src="{{site.url}}/images/10-things-no-one-tells-you/rivets.jpg" /> 
+<a class="image-captions">Our rivet collection - and we're not even done ordering them yet. Such riveting times.</a>
+<br>
+<br>
 **Once you start your build, every Tom, Dick & Harry is an "expert" in building housebuses.** We like advice, especially if it's good advice. We are eternally grateful to everyone who's gone through their own build and taken the time to share their learnings for no other reason than to make life easier for others. You guys really rock! But it can get a little tedious when you've spent the last 3 years reasearching the nitty gritties and a know-it-all twit who actually knows nothing at all tells you that you absolutely must do this this way and that that way. No, no I must not.
 <br>
 <br>
