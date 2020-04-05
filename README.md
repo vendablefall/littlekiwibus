@@ -10,8 +10,8 @@ https://stackoverflow.com/questions/44342434/rmagick-install-error-ubunutu-16-04
 
 ### To run this site locally:
 
-    ./serve_Dev.sh
+    ./serve_dev.sh
 
-### To push to S3
+### To push to S3 (live website)
 
     ./push_to_s3.sh
